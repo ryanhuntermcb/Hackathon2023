@@ -1,0 +1,1568 @@
+entity_name,category,txs_sent,usd_sent,txs_recieved,usd_recieved,Sent_Risk_Percentage,Recieved_Risk_Percentage
+7money,criminal,20,5494.2,0.0,0.0,0.0,
+7money,dark market,964,366379.61,582.0,248918.87,0.0,0.0
+7money,gambling,26,13584.43,18.0,4069.25,0.0,0.0
+7money,high risk exchange,696,269214.11,78.0,35776.69,0.0,0.0
+7money,hyip,40,15739.77,87.0,37640.97,0.0,0.0
+7money,mixer,78,63937.97,3.0,293.11,0.0,0.01
+AAX,criminal,64,4292.35,51.0,2586.09,0.01,0.02
+AAX,dark market,96,3966.74,833.0,639024.18,0.02,0.0
+AAX,gambling,176,34123.24,323.0,139521.03,0.01,0.0
+AAX,high risk exchange,960,547052.3,867.0,3328359.32,0.0,0.0
+AAX,hyip,32,72306.19,612.0,662642.72,0.0,0.0
+AEX,high risk exchange,96,365954.37,34.0,5186.84,0.0,0.01
+ARI10,criminal,6,602.02,0.0,0.0,0.01,
+ARI10,dark market,15,2868.65,0.0,0.0,0.01,
+ARI10,gambling,543,211927.74,152.0,500968.85,0.0,0.0
+ARI10,high risk exchange,19,12284.73,4.0,3895.68,0.0,0.0
+ARI10,hyip,16,3176.65,10.0,1069.41,0.01,0.01
+ARI10,mixer,4,419.65,0.0,0.0,0.01,
+Abcobmen,dark market,160,32728.84,55.0,22828.39,0.0,0.0
+Abcobmen,high risk exchange,30,14268.02,0.0,0.0,0.0,
+Abcobmen,hyip,70,12178.88,0.0,0.0,0.01,
+AbsoluteFXOptions,hyip,0,0.0,2457.0,1736432.92,,0.0
+Advcash,criminal,55,18331.18,348.0,17184.04,0.0,0.02
+Advcash,dark market,220,120359.9,2256.0,3724475.23,0.0,0.0
+Advcash,gambling,121,77881.01,600.0,416817.85,0.0,0.0
+Advcash,high risk exchange,781,1039044.4,2052.0,3638926.87,0.0,0.0
+Advcash,hyip,220,151795.6,1608.0,875338.14,0.0,0.0
+Advcash,mixer,22,26713.27,24.0,72516.42,0.0,0.0
+Alameda,high risk exchange,170,6108067.77,0.0,0.0,0.0,
+Alfacash,dark market,4,209.58,5.0,7124.36,0.02,0.0
+Alfacash,high risk exchange,20,78409.46,15.0,1088.21,0.0,0.01
+Alfacash,hyip,4,644.62,0.0,0.0,0.01,
+Alfacash,mixer,4,21149.04,5.0,4479.02,0.0,0.0
+Alfacoins,gambling,6,2223.02,15.0,93.07,0.0,0.16
+Alfacoins,high risk exchange,34,279616.16,33.0,1446.75,0.0,0.02
+Alfacoins,hyip,62,182690.19,798.0,58745.11,0.0,0.01
+Alfacoins,ransomware,2,91.54,0.0,0.0,0.02,
+AltCoinTrader,criminal,684,72230.38,209.0,69384.66,0.01,0.0
+AltCoinTrader,dark market,54,294.72,19.0,2170.6,0.18,0.01
+AltCoinTrader,gambling,198,42859.32,836.0,179046.66,0.0,0.0
+AltCoinTrader,high risk exchange,486,116722.0,551.0,206664.49,0.0,0.0
+AltCoinTrader,hyip,198,164170.85,4446.0,3387455.38,0.0,0.0
+AltCoinTrader,mixer,18,10284.04,0.0,0.0,0.0,
+AnyCash,criminal,16,5470.04,15.0,14632.15,0.0,0.0
+AnyCash,dark market,354,985967.59,2859.0,7875976.48,0.0,0.0
+AnyCash,gambling,20,10798.72,75.0,60549.88,0.0,0.0
+AnyCash,high risk exchange,1276,12693259.7,2157.0,11454625.79,0.0,0.0
+AnyCash,hyip,8,13260.74,963.0,496866.91,0.0,0.0
+AnyCash,ransomware,2,421.94,9.0,5835.38,0.0,0.0
+ApolloX,gambling,24,1131.12,0.0,0.0,0.02,
+ApolloX,high risk exchange,6,1097.67,0.0,0.0,0.01,
+ArgenBTC,criminal,120,11868.23,0.0,0.0,0.01,
+ArgenBTC,dark market,72,14112.13,0.0,0.0,0.01,
+ArgenBTC,gambling,3636,199951.19,0.0,0.0,0.02,
+ArgenBTC,high risk exchange,312,50375.96,0.0,0.0,0.01,
+ArgenBTC,hyip,216,45891.43,0.0,0.0,0.0,
+Arzjoo,criminal,1,44.54,0.0,0.0,0.02,
+Arzjoo,gambling,13,5421.33,8.0,5227.73,0.0,0.0
+Arzjoo,high risk exchange,2,12643.89,10.0,11481.13,0.0,0.0
+Arzjoo,hyip,2,11513.05,0.0,0.0,0.0,
+AscendEx,criminal,18,50783.5,19.0,1864.44,0.0,0.01
+AscendEx,gambling,1098,2535089.17,1216.0,5189917.19,0.0,0.0
+AscendEx,high risk exchange,2898,7167339.4,1178.0,4577605.55,0.0,0.0
+AscendEx,hyip,72,60497.65,2204.0,2207443.9,0.0,0.0
+AtomicWallet,criminal,340,36190.66,84.0,6525.3,0.01,0.01
+AtomicWallet,gambling,140,12120.62,126.0,11754.0,0.01,0.01
+AtomicWallet,high risk exchange,720,52874.83,651.0,34304.08,0.01,0.02
+AustecInvestment,hyip,0,0.0,0.0,0.0,,
+B2BX,criminal,19,190.52,20.0,154.83,0.1,0.13
+B2BX,dark market,76,2741.24,1680.0,332308.72,0.03,0.01
+B2BX,gambling,152,776617.9,480.0,805234.28,0.0,0.0
+B2BX,high risk exchange,437,270596.79,3300.0,960846.16,0.0,0.0
+B2BX,hyip,57,32055.87,2000.0,469778.72,0.0,0.0
+BC.Game,criminal,26,8761.72,135.0,2150046.84,0.0,0.0
+BC.Game,dark market,66,3905.01,69.0,13052.1,0.02,0.01
+BC.Game,gambling,1834,1355760.98,3615.0,1428376.44,0.0,0.0
+BC.Game,high risk exchange,688,188111.87,129.0,8986.27,0.0,0.01
+BC.Game,hyip,494,278320.77,5562.0,578280.31,0.0,0.01
+BC.Game,malware,2,8395.48,0.0,0.0,0.0,
+BC.Game,mixer,8,25739.53,3.0,113.89,0.0,0.03
+BC.Game,ransomware,2,629.27,0.0,0.0,0.0,
+BITPoint,criminal,105,63003.96,0.0,0.0,0.0,
+BITPoint,dark market,84,19954.65,0.0,0.0,0.0,
+BITPoint,gambling,5460,5588663.53,1056.0,1575638.99,0.0,0.0
+BITPoint,high risk exchange,336,1133447.65,132.0,1650008.11,0.0,0.0
+BITPoint,hyip,42,33743.49,0.0,0.0,0.0,
+BKEX,criminal,72,7110.37,0.0,0.0,0.01,
+BKEX,dark market,90,11318.33,0.0,0.0,0.01,
+BKEX,gambling,54,74594.67,19.0,9467.81,0.0,0.0
+BKEX,high risk exchange,18,3944.06,95.0,933004.87,0.0,0.0
+BTC-Alpha,high risk exchange,36,9216.19,0.0,0.0,0.0,
+BTC-e.com,high risk exchange,4,703.11,0.0,0.0,0.01,
+BTCBit,dark market,14,516.68,0.0,0.0,0.03,
+BTCBit,gambling,14,1402.67,0.0,0.0,0.01,
+BTCBit,high risk exchange,322,3869381.01,0.0,0.0,0.0,
+BTCBit,hyip,28,1562.09,0.0,0.0,0.02,
+BTCC.com,dark market,2,356.75,0.0,0.0,0.01,
+BTCExchange,high risk exchange,2,4258.71,0.0,0.0,0.0,
+BTCExchange,mixer,2,100397.55,0.0,0.0,0.0,
+BTCTradeUA,criminal,16,25041.12,119.0,193152.74,0.0,0.0
+BTCTradeUA,dark market,176,28343.02,323.0,568596.32,0.01,0.0
+BTCTradeUA,high risk exchange,64,4453.34,221.0,43469.49,0.01,0.01
+BTCTradeUA,mixer,16,17013.38,0.0,0.0,0.0,
+BTCTurk,criminal,6896,1968244.39,1564.0,328382.96,0.0,0.0
+BTCTurk,dark market,4768,842445.45,323.0,82681.5,0.01,0.0
+BTCTurk,gambling,155392,97454599.25,28458.0,13666206.42,0.0,0.0
+BTCTurk,high risk exchange,9664,11981938.1,2533.0,6394234.76,0.0,0.0
+BTCTurk,hyip,2416,1366363.22,8925.0,3362343.91,0.0,0.0
+BTCTurk,mixer,112,1631519.9,0.0,0.0,0.0,
+BTX,criminal,6,430.15,0.0,0.0,0.01,
+BTX,high risk exchange,57,30643.48,0.0,0.0,0.0,
+BTX,hyip,3,37.43,0.0,0.0,0.08,
+Baanx,criminal,9,50.43,0.0,0.0,0.18,
+Baanx,high risk exchange,9,4464.64,0.0,0.0,0.0,
+Baksman,dark market,1513,320485.12,360.0,233178.81,0.0,0.0
+Baksman,high risk exchange,119,55619.63,0.0,0.0,0.0,
+BankCEX,high risk exchange,8,1025.56,0.0,0.0,0.01,
+Bankcomat,dark market,1216,415648.24,68.0,6677.7,0.0,0.01
+Bankcomat,high risk exchange,592,565460.47,85.0,3940.2,0.0,0.02
+Bankcomat,hyip,16,736.97,85.0,20413.22,0.02,0.0
+Betcoin.ag,dark market,6,2005.78,4.0,1002.19,0.0,0.0
+Betcoin.ag,gambling,73,41511.14,50.0,18705.62,0.0,0.0
+Betcoin.ag,high risk exchange,106,104416.42,0.0,0.0,0.0,
+Betcoin.ag,hyip,1,23.57,60.0,15221.36,0.04,0.0
+Bexplus,dark market,32,7134.7,0.0,0.0,0.0,
+Bexplus,gambling,48,7492.32,17.0,546.28,0.01,0.03
+Bexplus,high risk exchange,16,1646.11,0.0,0.0,0.01,
+Bexplus,hyip,16,425.92,17.0,1412.21,0.04,0.01
+Bibox,criminal,50,27311.64,26.0,3810.76,0.0,0.01
+Bibox,dark market,75,33416.21,1170.0,2787339.07,0.0,0.0
+Bibox,gambling,200,555449.41,286.0,979078.1,0.0,0.0
+Bibox,high risk exchange,800,506386.93,806.0,495166.62,0.0,0.0
+Bibox,hyip,75,35671.54,468.0,83830.06,0.0,0.01
+Bibox,ransomware,25,4573.96,0.0,0.0,0.01,
+BigBankCash,dark market,17,1105.95,0.0,0.0,0.02,
+BigONE,high risk exchange,68,3434.4,18.0,879.43,0.02,0.02
+Biki,high risk exchange,18,14742.69,0.0,0.0,0.0,
+Bilaxy,dark market,20,8249.11,0.0,0.0,0.0,
+Billium,high risk exchange,4,5808.95,0.0,0.0,0.0,
+Binance.com,criminal,258152,156524838.75,215832.0,826710066.3,0.0,0.0
+Binance.com,dark market,216752,68224232.9,96840.0,123474899.35,0.0,0.0
+Binance.com,gambling,3153300,3574011418.17,1364184.0,2521476063.38,0.0,0.0
+Binance.com,high risk exchange,1567128,4618815233.74,499944.0,2367497014.58,0.0,0.0
+Binance.com,hyip,307326,335787948.58,592656.0,1566730139.84,0.0,0.0
+Binance.com,malware,46,5035.31,0.0,0.0,0.01,
+Binance.com,mixer,51336,456775263.27,1464.0,12945821.09,0.0,0.0
+Binance.com,ransomware,6072,9574665.32,19416.0,107697415.4,0.0,0.0
+BinanceUS,criminal,3822,2640190.23,88.0,13483.43,0.0,0.01
+BinanceUS,dark market,1953,556674.03,154.0,23947.58,0.0,0.01
+BinanceUS,gambling,73899,68188921.59,16830.0,33888244.08,0.0,0.0
+BinanceUS,high risk exchange,10227,24836682.26,506.0,922835.73,0.0,0.0
+BinanceUS,hyip,6909,22296661.83,5148.0,5477621.08,0.0,0.0
+BinanceUS,mixer,546,3080537.32,0.0,0.0,0.0,
+BinaryOptionMarket,high risk exchange,2,41.58,0.0,0.0,0.05,
+BinaryOptionMarket,hyip,0,0.0,6.0,114.36,,0.05
+BingX,criminal,24,433937.52,5.0,23.87,0.0,0.21
+BingX,dark market,36,58616.14,0.0,0.0,0.0,
+BingX,gambling,176,114098.3,220.0,131907.8,0.0,0.0
+BingX,high risk exchange,220,82000.93,420.0,146786.07,0.0,0.0
+BingX,hyip,84,103317.28,160.0,58923.09,0.0,0.0
+BingX,malware,4,122.2,0.0,0.0,0.03,
+Birake,criminal,3495,2566398.01,304.0,869699.73,0.0,0.0
+Birake,gambling,240,149592.99,16.0,13654.28,0.0,0.0
+Birake,high risk exchange,6120,33559572.31,2960.0,16887427.9,0.0,0.0
+Birake,hyip,45,61455.98,320.0,590401.13,0.0,0.0
+Birake,mixer,30,218235.84,16.0,617.22,0.0,0.03
+Bit2C,gambling,112,59761.75,102.0,194582.7,0.0,0.0
+Bit2C,hyip,16,460010.99,136.0,59295.42,0.0,0.0
+Bit2me.com,criminal,221,45894.9,306.0,746859.77,0.0,0.0
+Bit2me.com,dark market,850,82763.37,36.0,285.59,0.01,0.13
+Bit2me.com,gambling,4794,577840.91,3096.0,1774861.94,0.01,0.0
+Bit2me.com,high risk exchange,1479,1538044.72,18.0,29957.53,0.0,0.0
+Bit2me.com,hyip,408,179470.13,846.0,219235.1,0.0,0.0
+BitForex,criminal,252,206131.57,0.0,0.0,0.0,
+BitForex,dark market,210,67874.22,1034.0,476258.88,0.0,0.0
+BitForex,gambling,966,455286.67,484.0,295377.66,0.0,0.0
+BitForex,high risk exchange,1659,1193469.39,198.0,91673.8,0.0,0.0
+BitForex,hyip,273,136713.47,1958.0,2738931.74,0.0,0.0
+BitForex,ransomware,21,5170.33,0.0,0.0,0.0,
+BitGlobal,high risk exchange,100,306889.55,231.0,85122.13,0.0,0.0
+BitGlobal,hyip,60,67073.33,42.0,13155.76,0.0,0.0
+BitMart,criminal,63,243303.46,0.0,0.0,0.0,
+BitMart,dark market,168,57457.56,0.0,0.0,0.0,
+BitMart,gambling,441,299418.16,88.0,10810.95,0.0,0.01
+BitMart,high risk exchange,1008,2524012.29,22.0,164759.06,0.0,0.0
+BitMart,hyip,147,68221.28,176.0,167931.98,0.0,0.0
+BitMaxLVC,dark market,55,5001.42,0.0,0.0,0.01,
+BitMaxLVC,gambling,1364,1010233.23,852.0,792948.31,0.0,0.0
+BitMaxLVC,high risk exchange,11,546.19,0.0,0.0,0.02,
+BitMaxLVC,hyip,11,9611.9,0.0,0.0,0.0,
+BitMyMoney,high risk exchange,42,5247.99,0.0,0.0,0.01,
+BitMyMoney,hyip,28,134632.59,0.0,0.0,0.0,
+BitPadre,gambling,6,128.16,0.0,0.0,0.05,
+BitPadre,hyip,12,28149.61,0.0,0.0,0.0,
+BitPay.com,criminal,138,25780.34,1536.0,555774.84,0.01,0.0
+BitPay.com,dark market,23,1353.38,144.0,13191.46,0.02,0.01
+BitPay.com,gambling,115,5713.14,1200.0,605689.74,0.02,0.0
+BitPay.com,high risk exchange,2300,148332.47,5832.0,641628.14,0.02,0.01
+BitPay.com,hyip,276,57533.12,1296.0,63563.18,0.0,0.02
+BitPay.com,mixer,23,66.36,408.0,183447.85,0.35,0.0
+BitPreco,criminal,120,69886.1,13.0,2266.97,0.0,0.01
+BitPreco,dark market,36,6377.34,0.0,0.0,0.01,
+BitPreco,gambling,324,26621.62,221.0,39201.04,0.01,0.01
+BitPreco,high risk exchange,4932,17172264.8,0.0,0.0,0.0,
+BitPreco,hyip,180,67084.27,247.0,98209.22,0.0,0.0
+BitPreco,mixer,24,160282.3,0.0,0.0,0.0,
+BitShares,high risk exchange,224,138083.17,17.0,9955.71,0.0,0.0
+BitShares,mixer,32,62087.77,0.0,0.0,0.0,
+BitSler,criminal,3,115.43,0.0,0.0,0.03,
+BitSler,dark market,1,40.47,0.0,0.0,0.02,
+BitSler,gambling,316,181545.01,686.0,415098.77,0.0,0.0
+BitSler,high risk exchange,175,40299.03,6.0,1052.24,0.0,0.01
+BitSler,hyip,11,2467.05,410.0,28782.98,0.0,0.01
+BitSler,malware,4,2449.25,0.0,0.0,0.0,
+BitSler,ransomware,1,45.64,0.0,0.0,0.02,
+Bitazza,dark market,7,588.54,0.0,0.0,0.01,
+Bitazza,gambling,658,400948.68,256.0,194437.09,0.0,0.0
+Bitazza,high risk exchange,63,25257.9,88.0,26598.11,0.0,0.0
+Bitazza,hyip,14,4040.68,56.0,13017.63,0.0,0.0
+Bitazza,mixer,7,9960.67,0.0,0.0,0.0,
+Bitbank.cc,criminal,817,1406019.79,60.0,79484.57,0.0,0.0
+Bitbank.cc,dark market,342,59521.21,0.0,0.0,0.01,
+Bitbank.cc,gambling,8759,15931612.95,400.0,2324706.75,0.0,0.0
+Bitbank.cc,high risk exchange,95,30111.65,20.0,16430.06,0.0,0.0
+Bitbank.cc,hyip,627,928478.05,0.0,0.0,0.0,
+Bitbns,criminal,54,65346.81,57.0,4877.56,0.0,0.01
+Bitbns,gambling,162,129873.75,133.0,113631.25,0.0,0.0
+Bitbns,high risk exchange,414,2374751.06,0.0,0.0,0.0,
+Bitbns,hyip,54,1855.81,57.0,9081.21,0.03,0.01
+Bitcasino.io,gambling,0,0.0,52.0,18512.95,,0.0
+Bitcoin.de,criminal,320,2180127.06,238.0,1108436.21,0.0,0.0
+Bitcoin.de,dark market,17872,4777660.21,918.0,766269.95,0.0,0.0
+Bitcoin.de,gambling,10208,6847797.5,6018.0,12397318.62,0.0,0.0
+Bitcoin.de,high risk exchange,1872,958599.22,578.0,521169.4,0.0,0.0
+Bitcoin.de,hyip,624,514020.23,493.0,688155.34,0.0,0.0
+Bitcoin.de,mixer,624,5606014.63,0.0,0.0,0.0,
+Bitcoin4U,criminal,2,847.15,0.0,0.0,0.0,
+Bitcoin4U,dark market,8,328.77,0.0,0.0,0.02,
+Bitcoin4U,gambling,1646,137959.12,12.0,2790.9,0.01,0.0
+Bitcoin4U,high risk exchange,292,1085626.35,0.0,0.0,0.0,
+Bitcoin4U,hyip,194,46287.73,0.0,0.0,0.0,
+BitcoinAustralia,criminal,12,27285.07,0.0,0.0,0.0,
+BitcoinAustralia,dark market,18,2566.53,0.0,0.0,0.01,
+BitcoinAustralia,gambling,16,1204.15,0.0,0.0,0.01,
+BitcoinAustralia,high risk exchange,10,4134.46,0.0,0.0,0.0,
+BitcoinDepot,criminal,7236,1422216.11,0.0,0.0,0.01,
+BitcoinDepot,dark market,4992,447541.22,0.0,0.0,0.01,
+BitcoinDepot,gambling,6072,726737.4,0.0,0.0,0.01,
+BitcoinDepot,high risk exchange,834,518394.6,0.0,0.0,0.0,
+BitcoinDepot,hyip,6762,5951303.51,0.0,0.0,0.0,
+BitcoinDepot,mixer,12,5225.54,0.0,0.0,0.0,
+BitcoinDepot,ransomware,552,958220.69,0.0,0.0,0.0,
+BitcoinRD,criminal,11,535.42,0.0,0.0,0.02,
+BitcoinRD,hyip,55,4113.25,0.0,0.0,0.01,
+BitcoinTrade,criminal,540,904688.53,0.0,0.0,0.0,
+BitcoinTrade,dark market,40,1932.87,0.0,0.0,0.02,
+BitcoinTrade,gambling,280,158611.67,525.0,224258.26,0.0,0.0
+BitcoinTrade,high risk exchange,860,554455.11,945.0,176500.06,0.0,0.01
+BitcoinTrade,hyip,740,1359625.04,567.0,405332.12,0.0,0.0
+BitcoinWallet.com,criminal,18,1390.36,4.0,110.69,0.01,0.04
+BitcoinWallet.com,dark market,69,9450.96,4.0,134.46,0.01,0.03
+BitcoinWallet.com,gambling,16,1180.59,18.0,2251.28,0.01,0.01
+BitcoinWallet.com,high risk exchange,23,21571.67,4.0,677.51,0.0,0.01
+BitcoinWallet.com,hyip,8,1643.18,50.0,12048.91,0.0,0.0
+BitcoinWallet.com,mixer,1,116.62,0.0,0.0,0.01,
+BitexBook,dark market,16,1839.98,0.0,0.0,0.01,
+Bitexbit,high risk exchange,24,3589.3,0.0,0.0,0.01,
+Bitexbit,hyip,8,385.52,9.0,4295.51,0.02,0.0
+Bitfex,dark market,17,1827.97,0.0,0.0,0.01,
+Bitfex,hyip,51,13779.94,0.0,0.0,0.0,
+Bitfinex.com,criminal,147,30957.43,66.0,46926.47,0.0,0.0
+Bitfinex.com,dark market,1827,286009.59,242.0,207186.91,0.01,0.0
+Bitfinex.com,gambling,5712,13660831.92,2288.0,26775419.16,0.0,0.0
+Bitfinex.com,high risk exchange,22638,141897621.56,8866.0,151342696.9,0.0,0.0
+Bitfinex.com,hyip,5565,9148433.73,1430.0,887945.24,0.0,0.0
+Bitfinex.com,mixer,1134,38416161.27,154.0,2768267.49,0.0,0.0
+Bitfinex.com,ransomware,63,349094.87,44.0,419017.95,0.0,0.0
+Bitflyer.jp,criminal,2394,3761508.34,44.0,93464.73,0.0,0.0
+Bitflyer.jp,dark market,2541,572476.53,22.0,8869.46,0.0,0.0
+Bitflyer.jp,gambling,148323,174123954.86,11066.0,43099716.28,0.0,0.0
+Bitflyer.jp,high risk exchange,4116,9451219.56,506.0,361634.02,0.0,0.0
+Bitflyer.jp,hyip,2436,11775843.6,440.0,630127.43,0.0,0.0
+Bitflyer.jp,mixer,168,222450.72,0.0,0.0,0.0,
+Bitget,criminal,17,16012.45,0.0,0.0,0.0,
+Bitget,dark market,204,34973.95,0.0,0.0,0.01,
+Bitget,gambling,1037,356743.67,0.0,0.0,0.0,
+Bitget,high risk exchange,663,500534.18,0.0,0.0,0.0,
+Bitget,hyip,357,72903.68,0.0,0.0,0.0,
+Bitget,ransomware,51,22799.6,0.0,0.0,0.0,
+Bitkan,dark market,60,21432.16,0.0,0.0,0.0,
+Bitkan,high risk exchange,180,848673.39,0.0,0.0,0.0,
+Bitkan,hyip,30,2176.76,48.0,9879.72,0.01,0.0
+Bitkub,criminal,874,3737108.68,60.0,26049.24,0.0,0.0
+Bitkub,dark market,1197,495040.61,1620.0,879128.84,0.0,0.0
+Bitkub,gambling,6935,5719565.42,4040.0,3890396.05,0.0,0.0
+Bitkub,high risk exchange,14421,47230733.68,3980.0,9079210.0,0.0,0.0
+Bitkub,hyip,1482,1883993.15,800.0,1703275.32,0.0,0.0
+Bitkub,mixer,76,278226.94,0.0,0.0,0.0,
+Bitladon,dark market,40,6811.35,0.0,0.0,0.01,
+Bitladon,gambling,48,6322.19,414.0,164380.75,0.01,0.0
+Bitladon,high risk exchange,8,1768.69,0.0,0.0,0.0,
+Bitlocus,criminal,8,59.44,0.0,0.0,0.13,
+Bitlocus,gambling,26,143.37,0.0,0.0,0.18,
+Bitlocus,high risk exchange,86,21510.07,96.0,1371.81,0.0,0.07
+Bitlocus,hyip,14,1099.1,12.0,404.39,0.01,0.03
+Bitmex.com,dark market,19,3848.98,0.0,0.0,0.0,
+Bitmex.com,gambling,19,122.12,0.0,0.0,0.16,
+Bitmex.com,high risk exchange,171,10130.78,0.0,0.0,0.02,
+Bitmex.com,hyip,19,812.84,0.0,0.0,0.02,
+Bitmynt,gambling,2,3386.79,6.0,1205.08,0.0,0.0
+Bitmynt,high risk exchange,16,112383.0,0.0,0.0,0.0,
+Bitnuvem,criminal,128,13469.73,6.0,314.14,0.01,0.02
+Bitnuvem,gambling,392,21097.8,147.0,23305.54,0.02,0.01
+Bitnuvem,high risk exchange,40,6322.24,3.0,222.66,0.01,0.01
+Bitnuvem,hyip,128,74211.76,174.0,59802.35,0.0,0.0
+BitoEX.com,criminal,187,74215.08,0.0,0.0,0.0,
+BitoEX.com,gambling,5508,2870185.58,1728.0,768504.2,0.0,0.0
+BitoEX.com,high risk exchange,1105,1251772.26,180.0,149522.14,0.0,0.0
+BitoEX.com,hyip,187,313535.53,36.0,209291.03,0.0,0.0
+Bitobmen,high risk exchange,54,4034.23,6688.0,1825533.37,0.01,0.0
+Bitpanda,criminal,13950,6539963.51,342.0,343050.28,0.0,0.0
+Bitpanda,dark market,38358,5822856.05,570.0,72083.61,0.01,0.01
+Bitpanda,gambling,457578,136708886.11,105393.0,110826573.75,0.0,0.0
+Bitpanda,high risk exchange,9900,5857021.92,342.0,1076979.21,0.0,0.0
+Bitpanda,hyip,8478,6542289.34,6840.0,4875307.31,0.0,0.0
+Bitpanda,mixer,2610,1808562.63,0.0,0.0,0.0,
+Bitpanda,ransomware,36,91023.14,0.0,0.0,0.0,
+BitpointLatam,high risk exchange,56,9165.92,0.0,0.0,0.01,
+Bitrue,criminal,204,96403.27,18.0,719.15,0.0,0.03
+Bitrue,dark market,221,112461.19,54.0,49565.5,0.0,0.0
+Bitrue,gambling,3196,9869677.65,3240.0,5474668.88,0.0,0.0
+Bitrue,high risk exchange,1547,2011435.05,558.0,3984395.37,0.0,0.0
+Bitrue,hyip,85,440258.91,900.0,729642.89,0.0,0.0
+Bitrue,mixer,136,2170067.73,0.0,0.0,0.0,
+Bitsika,criminal,12,1410.32,78.0,1279.32,0.01,0.06
+Bitsika,gambling,156,1240.2,52.0,694.79,0.13,0.07
+Bitsika,high risk exchange,252,12330.04,13.0,325.96,0.02,0.04
+Bitsika,hyip,276,3458.87,247.0,19455.43,0.08,0.01
+Bitso.com,criminal,67034,10322798.84,1380.0,303594.01,0.01,0.0
+Bitso.com,dark market,7326,484011.33,23.0,178.43,0.02,0.13
+Bitso.com,gambling,309254,35489940.77,110883.0,25327596.02,0.01,0.0
+Bitso.com,high risk exchange,125928,101283995.09,207.0,67313.56,0.0,0.0
+Bitso.com,hyip,15554,6388940.69,15502.0,9815089.07,0.0,0.0
+Bitso.com,mixer,462,291466.98,23.0,1855.62,0.0,0.01
+Bitso.com,ransomware,44,229.64,0.0,0.0,0.19,
+Bitstamp.net,criminal,55640,13502925.75,63.0,4879.92,0.0,0.01
+Bitstamp.net,dark market,16320,1927509.32,42.0,3021.94,0.01,0.01
+Bitstamp.net,gambling,717680,196698880.3,6804.0,70305441.19,0.0,0.0
+Bitstamp.net,high risk exchange,26180,20828656.76,1743.0,9250726.11,0.0,0.0
+Bitstamp.net,hyip,31440,14452853.74,3759.0,13053288.48,0.0,0.0
+Bitstamp.net,mixer,2660,13982278.63,63.0,151603.35,0.0,0.0
+Bitstamp.net,ransomware,20,6638346.21,0.0,0.0,0.0,
+Bittrex.com,criminal,3078,4123212.66,209.0,180107.97,0.0,0.0
+Bittrex.com,dark market,3132,426634.8,0.0,0.0,0.01,
+Bittrex.com,gambling,17172,14151705.12,8151.0,10149570.4,0.0,0.0
+Bittrex.com,high risk exchange,19746,44859792.61,2527.0,2265025.06,0.0,0.0
+Bittrex.com,hyip,20520,23993740.25,3629.0,3954355.54,0.0,0.0
+Bittrex.com,mixer,18,462.75,19.0,189668.92,0.04,0.0
+Bittrex.com,ransomware,18,2210.81,0.0,0.0,0.01,
+Bittylicious,criminal,15,2987.85,0.0,0.0,0.01,
+Bittylicious,dark market,45,22624.92,0.0,0.0,0.0,
+Bittylicious,gambling,45,16264.63,0.0,0.0,0.0,
+Bittylicious,high risk exchange,15,3110.93,0.0,0.0,0.0,
+Bittylicious,hyip,15,5095.93,0.0,0.0,0.0,
+Bitvavo,criminal,1056,418333.04,34.0,240097.27,0.0,0.0
+Bitvavo,gambling,2240,333985.55,8177.0,2957907.08,0.01,0.0
+Bitvavo,high risk exchange,240,94278.0,85.0,69153.61,0.0,0.0
+Bitvavo,hyip,16,231.75,1921.0,1423385.21,0.07,0.0
+Bitvest,gambling,106,24039.58,51.0,17966.15,0.0,0.0
+Bitvest,high risk exchange,16,3930.24,0.0,0.0,0.0,
+Bitvo,criminal,90,10387.21,0.0,0.0,0.01,
+Bitvo,gambling,234,608262.96,190.0,5067705.65,0.0,0.0
+Bitvo,high risk exchange,198,1300896.06,0.0,0.0,0.0,
+Bitvo,hyip,36,44253.57,95.0,67237.08,0.0,0.0
+Bitvo,mixer,36,87632.85,0.0,0.0,0.0,
+Bity,high risk exchange,51,36134.89,0.0,0.0,0.0,
+Bitzlato,criminal,6120,573197.8,256.0,13700.19,0.01,0.02
+Bitzlato,dark market,290310,215687517.07,359184.0,508267963.45,0.0,0.0
+Bitzlato,gambling,37560,13620682.96,9760.0,7168143.19,0.0,0.0
+Bitzlato,high risk exchange,80415,693139515.27,45296.0,57438323.23,0.0,0.0
+Bitzlato,hyip,3060,1220884.38,12160.0,3635127.67,0.0,0.0
+Bitzlato,mixer,510,649667.44,144.0,1365421.46,0.0,0.0
+Bitzlato,ransomware,855,569026.44,1088.0,2435890.4,0.0,0.0
+Bixin,criminal,816,215383.07,0.0,0.0,0.0,
+Bixin,dark market,320,102397.36,0.0,0.0,0.0,
+Bixin,gambling,1136,168259.28,34.0,1538.6,0.01,0.02
+Bixin,high risk exchange,18288,2878985.08,0.0,0.0,0.01,
+Bixin,hyip,32,1213.59,17.0,1780.73,0.03,0.01
+BlockFi,criminal,54,5025.92,57.0,10573.57,0.01,0.01
+BlockFi,gambling,216,57647.86,1235.0,3141088.43,0.0,0.0
+BlockFi,high risk exchange,270,723790.32,114.0,419544.25,0.0,0.0
+BlockFi,hyip,342,916459.62,1824.0,7961732.12,0.0,0.0
+BlockFi,mixer,54,163033.69,0.0,0.0,0.0,
+BlockTrades.us,dark market,19,9035.42,0.0,0.0,0.0,
+BlockTrades.us,gambling,57,3685.28,20.0,940.6,0.02,0.02
+BlockTrades.us,high risk exchange,760,274823.11,0.0,0.0,0.0,
+Blockchain.com,criminal,840,2180682.01,100.0,232230.25,0.0,0.0
+Blockchain.com,dark market,312,62532.22,25.0,121638.43,0.0,0.0
+Blockchain.com,gambling,8544,3776692.57,3275.0,7811667.38,0.0,0.0
+Blockchain.com,high risk exchange,5880,5668120.28,175.0,310155.81,0.0,0.0
+Blockchain.com,hyip,13464,2202897434.94,59375.0,135525272.04,0.0,0.0
+Blockchain.com,mixer,144,436683.7,0.0,0.0,0.0,
+Blockchain.com,ransomware,72,3650.26,0.0,0.0,0.02,
+Blocktrade,gambling,46,211146.52,72.0,54412.99,0.0,0.0
+Bololex,criminal,66,33935.37,0.0,0.0,0.0,
+Bololex,gambling,121,6862.4,108.0,33245.04,0.02,0.0
+Bololex,high risk exchange,77,28259.25,36.0,31688.22,0.0,0.0
+BonTrade,hyip,0,0.0,0.0,0.0,,
+BrasilBitcoin,criminal,12186,2306170.62,285.0,22886.28,0.01,0.01
+BrasilBitcoin,dark market,144,10327.32,0.0,0.0,0.01,
+BrasilBitcoin,gambling,11052,1365391.61,1976.0,1708024.87,0.01,0.0
+BrasilBitcoin,high risk exchange,864,122084.09,38.0,5088.92,0.01,0.01
+BrasilBitcoin,hyip,3888,1349143.68,855.0,131376.36,0.0,0.01
+BrasilBitcoin,ransomware,36,147.0,0.0,0.0,0.24,
+BrooksInvest,criminal,2143,374383.61,376.0,95869.93,0.01,0.0
+BrooksInvest,dark market,2131,221668.78,298.0,124635.56,0.01,0.0
+BrooksInvest,gambling,22109,4121333.61,6972.0,4710304.12,0.01,0.0
+BrooksInvest,high risk exchange,3958,2204773.97,610.0,1106594.35,0.0,0.0
+BrooksInvest,hyip,826,579562.31,36.0,16247.56,0.0,0.0
+BrooksInvest,mixer,118,131004.57,4.0,3086.75,0.0,0.0
+BrooksInvest,ransomware,69,17802.33,6.0,463.19,0.0,0.01
+BtcBank,criminal,14,1236.13,0.0,0.0,0.01,
+BtcBank,dark market,234,23255.63,78.0,54011.14,0.01,0.0
+BtcBank,gambling,38,9955.24,18.0,2029.94,0.0,0.01
+BtcBank,high risk exchange,155,49857.96,342.0,178706.96,0.0,0.0
+BtcBank,hyip,12,1721.2,54.0,5804.32,0.01,0.01
+BtcBank,ransomware,1,466.73,0.0,0.0,0.0,
+BtcBox,gambling,315,412009.91,88.0,781793.25,0.0,0.0
+BtcBox,high risk exchange,84,531149.64,0.0,0.0,0.0,
+BtcMarkets.net,criminal,68,55184.48,0.0,0.0,0.0,
+BtcMarkets.net,dark market,204,67210.49,90.0,27697.85,0.0,0.0
+BtcMarkets.net,gambling,663,416388.0,720.0,1361762.63,0.0,0.0
+BtcMarkets.net,high risk exchange,187,165942.94,18.0,10385.4,0.0,0.0
+BtcMarkets.net,hyip,51,65805.73,54.0,3229.49,0.0,0.02
+Buda,criminal,576,68131.25,17.0,6889.78,0.01,0.0
+Buda,dark market,64,1718.88,0.0,0.0,0.04,
+Buda,gambling,1024,194186.28,4080.0,5451856.77,0.01,0.0
+Buda,high risk exchange,3328,3321139.33,629.0,477967.49,0.0,0.0
+Buda,hyip,288,36638.97,1870.0,925459.41,0.01,0.0
+BuenBit,criminal,32,23100.38,34.0,6411.23,0.0,0.01
+BuenBit,gambling,2288,170295.47,2703.0,257688.74,0.01,0.01
+BuenBit,high risk exchange,448,73555.85,153.0,27569.61,0.01,0.01
+BuenBit,hyip,128,60631.01,612.0,94662.85,0.0,0.01
+Busha,criminal,552,169711.29,1611.0,245851.54,0.0,0.01
+Busha,dark market,50,3310.35,0.0,0.0,0.02,
+Busha,gambling,108,7464.67,51.0,69896.42,0.01,0.0
+Busha,high risk exchange,188,59524.19,57.0,30219.83,0.0,0.0
+Busha,hyip,422,256810.63,6978.0,2232412.37,0.0,0.0
+ButterproFXTrade,hyip,0,0.0,4.0,5886.88,,0.0
+BuyCash,criminal,27,3104.92,0.0,0.0,0.01,
+BuyCash,dark market,27,4786.83,0.0,0.0,0.01,
+BuyCash,high risk exchange,0,0.0,0.0,0.0,,
+Bybit,criminal,3440,2829061.59,2436.0,3999707.48,0.0,0.0
+Bybit,dark market,11400,3737644.75,5145.0,5203933.01,0.0,0.0
+Bybit,gambling,65220,116264205.67,29064.0,48053866.95,0.0,0.0
+Bybit,high risk exchange,43320,86017146.23,40656.0,53560592.4,0.0,0.0
+Bybit,hyip,3000,3159646.95,22554.0,18761014.79,0.0,0.0
+Bybit,mixer,2140,48860461.25,630.0,45206658.3,0.0,0.0
+Bybit,ransomware,220,83824.04,2037.0,11087667.06,0.0,0.0
+Byex,dark market,14,167.58,0.0,0.0,0.08,
+Byex,gambling,56,3303.4,0.0,0.0,0.02,
+Byex,high risk exchange,42,27985.9,0.0,0.0,0.0,
+Byex,hyip,56,15055.67,195.0,3536993.85,0.0,0.0
+COSS,high risk exchange,51,23454.14,0.0,0.0,0.0,
+CPXClassic,high risk exchange,8,4464.17,0.0,0.0,0.0,
+Capex,gambling,4,2586.94,0.0,0.0,0.0,
+Cashierest,criminal,36,164150.99,0.0,0.0,0.0,
+CatEx,criminal,34,8300.66,0.0,0.0,0.0,
+CatEx,high risk exchange,68,12198.03,54.0,8552.47,0.01,0.01
+Celsius,criminal,1166,3529345.45,253.0,540377.22,0.0,0.0
+Celsius,dark market,110,8408.1,23.0,2800.05,0.01,0.01
+Celsius,gambling,4466,1614812.47,5957.0,2824600.5,0.0,0.0
+Celsius,high risk exchange,1826,3023700.79,414.0,896604.7,0.0,0.0
+Celsius,hyip,528,1132859.54,5152.0,13532859.57,0.0,0.0
+Celsius,mixer,308,17440146.03,0.0,0.0,0.0,
+Cex.io,criminal,2608,804218.61,255.0,32306.42,0.0,0.01
+Cex.io,dark market,176,44778.0,34.0,11841.99,0.0,0.0
+Cex.io,gambling,336,75878.2,1683.0,1346483.22,0.0,0.0
+Cex.io,high risk exchange,1776,1879768.97,1003.0,1674853.58,0.0,0.0
+Cex.io,hyip,1920,1657613.63,4522.0,2612407.93,0.0,0.0
+Cex.io,mixer,16,143415.46,0.0,0.0,0.0,
+ChainEx,criminal,340,26896.73,0.0,0.0,0.01,
+ChainEx,gambling,20,707.51,0.0,0.0,0.03,
+ChainEx,high risk exchange,120,95170.22,0.0,0.0,0.0,
+ChainEx,hyip,160,58399.65,42.0,907.13,0.0,0.05
+ChangeHero,criminal,108,11522.22,0.0,0.0,0.01,
+ChangeHero,dark market,270,108674.42,323.0,658069.69,0.0,0.0
+ChangeHero,gambling,450,880974.02,19.0,2010.66,0.0,0.01
+ChangeHero,high risk exchange,1458,1424124.73,76.0,15887.89,0.0,0.0
+ChangeHero,mixer,252,1019663.32,0.0,0.0,0.0,
+Changenow,gambling,100,4153062.84,126.0,866501.42,0.0,0.0
+Changenow,high risk exchange,220,2545754.0,483.0,100377.44,0.0,0.0
+Changenow,mixer,920,35985180.95,21.0,3800.32,0.0,0.01
+Cieloex,criminal,3850,370601.83,0.0,0.0,0.01,
+Cieloex,dark market,18662,3115407.92,0.0,0.0,0.01,
+Cieloex,gambling,15876,4142846.28,0.0,0.0,0.0,
+Cieloex,high risk exchange,25914,21176345.95,0.0,0.0,0.0,
+Cieloex,hyip,1834,2209865.33,0.0,0.0,0.0,
+Cieloex,mixer,266,328186.62,0.0,0.0,0.0,
+Cieloex,ransomware,2716,787086.4,0.0,0.0,0.0,
+Coin.z.com,criminal,1460,1078677.04,21.0,1325.95,0.0,0.02
+Coin.z.com,dark market,2400,644138.52,0.0,0.0,0.0,
+Coin.z.com,gambling,47900,16719111.12,168.0,84509.27,0.0,0.0
+Coin.z.com,high risk exchange,8520,16070792.84,42.0,433671.75,0.0,0.0
+Coin.z.com,hyip,240,2062551.23,0.0,0.0,0.0,
+Coin.z.com,mixer,420,1728474.15,0.0,0.0,0.0,
+CoinBene,criminal,294,83648.89,22.0,1303.93,0.0,0.02
+CoinBene,dark market,798,297162.05,220.0,33236.44,0.0,0.01
+CoinBene,gambling,5691,5562184.84,15224.0,11491326.09,0.0,0.0
+CoinBene,high risk exchange,4158,3840801.06,770.0,2139042.37,0.0,0.0
+CoinBene,hyip,777,390427.61,4312.0,2222849.06,0.0,0.0
+CoinBene,mixer,21,1996.23,22.0,452441.51,0.01,0.0
+CoinBene,ransomware,42,4260.12,0.0,0.0,0.01,
+CoinCafe,dark market,84,27612.91,0.0,0.0,0.0,
+CoinCafe,gambling,7,756.53,0.0,0.0,0.01,
+CoinDCX,criminal,688,200539.91,255.0,272672.67,0.0,0.0
+CoinDCX,dark market,240,10557.52,0.0,0.0,0.02,
+CoinDCX,gambling,688,512162.12,2125.0,525911.04,0.0,0.0
+CoinDCX,high risk exchange,608,468372.95,34.0,53988.5,0.0,0.0
+CoinDCX,hyip,496,323227.97,1037.0,427631.79,0.0,0.0
+CoinDirect,dark market,18,2491.69,0.0,0.0,0.01,
+CoinDirect,gambling,918,258700.13,114.0,55587.02,0.0,0.0
+CoinDirect,high risk exchange,1674,452236.33,304.0,33205932.52,0.0,0.0
+CoinDirect,hyip,252,60503.45,38.0,1335.65,0.0,0.03
+CoinDirect,mixer,18,42518.79,0.0,0.0,0.0,
+CoinEx,criminal,940,174954.18,210.0,66336.23,0.01,0.0
+CoinEx,dark market,6960,776823.83,4011.0,2748341.44,0.01,0.0
+CoinEx,gambling,10940,4892888.19,3675.0,5540417.74,0.0,0.0
+CoinEx,high risk exchange,144660,89452874.91,5586.0,5441164.82,0.0,0.0
+CoinEx,hyip,1180,1545451.81,2016.0,1152277.84,0.0,0.0
+CoinEx,mixer,420,1336898.57,42.0,327202.88,0.0,0.0
+CoinEx,ransomware,640,107909.34,63.0,39413.21,0.01,0.0
+CoinFlex,gambling,51,118106.86,36.0,641.12,0.0,0.06
+CoinFlex,high risk exchange,68,472164.22,54.0,27746.51,0.0,0.0
+CoinJar.com,criminal,437,80007.84,528.0,612584.52,0.01,0.0
+CoinJar.com,dark market,782,159730.58,240.0,50656.97,0.0,0.0
+CoinJar.com,gambling,15341,5384471.96,22224.0,17378370.38,0.0,0.0
+CoinJar.com,high risk exchange,598,412479.93,96.0,20322.37,0.0,0.0
+CoinJar.com,hyip,736,1050711.16,2256.0,1479831.45,0.0,0.0
+CoinJar.com,mixer,138,548686.43,48.0,155991.75,0.0,0.0
+CoinMetro,criminal,95,1759365.84,20.0,27014.92,0.0,0.0
+CoinMetro,dark market,19,2694.06,0.0,0.0,0.01,
+CoinMetro,gambling,646,40513.92,460.0,112434.62,0.02,0.0
+CoinMetro,high risk exchange,95,9112.92,0.0,0.0,0.01,
+CoinMetro,hyip,152,79488.33,240.0,69842.58,0.0,0.0
+CoinMotion.com,criminal,171,162747.5,20.0,8045.69,0.0,0.0
+CoinMotion.com,dark market,2470,356989.55,60.0,4651.29,0.01,0.01
+CoinMotion.com,gambling,9006,1002365.23,2420.0,1089778.97,0.01,0.0
+CoinMotion.com,high risk exchange,1178,759128.54,120.0,220439.35,0.0,0.0
+CoinMotion.com,hyip,494,126008.92,240.0,18791.11,0.0,0.01
+CoinMotion.com,mixer,19,2949.24,0.0,0.0,0.01,
+CoinPayments.net,criminal,2332,3456109.68,11845.0,588944.72,0.0,0.02
+CoinPayments.net,dark market,1518,325231.82,32108.0,5044139.01,0.0,0.01
+CoinPayments.net,gambling,4928,3777168.43,16123.0,5827360.47,0.0,0.0
+CoinPayments.net,high risk exchange,87450,215680937.56,93840.0,33627468.26,0.0,0.0
+CoinPayments.net,hyip,18722,30315852.6,139771.0,23798800.76,0.0,0.01
+CoinPayments.net,mixer,1210,3981184.57,253.0,82285.44,0.0,0.0
+CoinPayments.net,ransomware,66,26333.19,414.0,56255.19,0.0,0.01
+CoinSmart,high risk exchange,20,46401.46,0.0,0.0,0.0,
+CoinSmart,hyip,20,9869.04,21.0,18903.87,0.0,0.0
+CoinSpot.com.au,criminal,4554,1019047.5,76.0,32682.77,0.0,0.0
+CoinSpot.com.au,dark market,23148,5820126.56,2793.0,1021117.24,0.0,0.0
+CoinSpot.com.au,gambling,389250,96116192.5,115824.0,110384591.39,0.0,0.0
+CoinSpot.com.au,high risk exchange,11664,25630135.12,456.0,516454.84,0.0,0.0
+CoinSpot.com.au,hyip,6444,4187769.53,4864.0,3000525.02,0.0,0.0
+CoinSpot.com.au,mixer,1134,1015585.89,0.0,0.0,0.0,
+CoinSpot.com.au,ransomware,54,145612.41,0.0,0.0,0.0,
+CoinStart,criminal,192,2412.07,0.0,0.0,0.08,
+CoinStart,dark market,12384,398884.12,1139.0,122056.01,0.03,0.01
+CoinStart,gambling,512,8657.52,34.0,1205.65,0.06,0.03
+CoinStart,high risk exchange,1232,26342.42,867.0,43835.31,0.05,0.02
+CoinStart,hyip,192,5034.52,850.0,65178.46,0.04,0.01
+CoinStart,mixer,16,632.38,0.0,0.0,0.03,
+CoinTiger,criminal,60,5257.78,21.0,66.86,0.01,0.31
+CoinTiger,dark market,40,11185.29,0.0,0.0,0.0,
+CoinTiger,high risk exchange,2620,1768939.97,21.0,1544.63,0.0,0.01
+CoinTiger,hyip,20,7422.61,21.0,498.35,0.0,0.04
+CoinW,gambling,1,13.68,0.0,0.0,0.07,
+CoinWorks,criminal,15,2634.39,0.0,0.0,0.01,
+CoinWorks,gambling,125,9878.69,0.0,0.0,0.01,
+CoinWorks,high risk exchange,29,15237.4,0.0,0.0,0.0,
+CoinWorks,hyip,202,131308.78,0.0,0.0,0.0,
+CoinZoom,criminal,391,108064.18,36.0,45101.58,0.0,0.0
+CoinZoom,dark market,272,33034.11,0.0,0.0,0.01,
+CoinZoom,gambling,2346,1033002.02,522.0,570487.11,0.0,0.0
+CoinZoom,high risk exchange,544,1121144.28,18.0,21400.23,0.0,0.0
+CoinZoom,hyip,748,1968515.99,720.0,225233.21,0.0,0.0
+Coinbase,criminal,131428,21307212.24,37927.0,15691840.96,0.01,0.0
+Coinbase,dark market,441452,47997148.82,80431.0,39435600.22,0.01,0.0
+Coinbase,gambling,2896278,568006415.76,5051743.0,2962252884.63,0.01,0.0
+Coinbase,high risk exchange,156684,71086528.02,170361.0,159431265.61,0.0,0.0
+Coinbase,hyip,87956,65391224.26,375682.0,267240326.85,0.0,0.0
+Coinbase,mixer,8492,26473118.58,851.0,1156407.55,0.0,0.0
+Coinbase,ransomware,1848,1625812.21,506.0,276470.69,0.0,0.0
+Coinbazaar,gambling,30,717.13,16.0,153.7,0.04,0.1
+Coinbazaar,high risk exchange,1050,308475.6,224.0,7735.3,0.0,0.03
+Coinbazaar,hyip,165,33654.73,256.0,27547.61,0.0,0.01
+Coinbazaar,ransomware,30,41781.17,432.0,2665033.18,0.0,0.0
+Coinbooth,hyip,0,0.0,0.0,0.0,,
+Coincheck,criminal,1694,2006139.29,23.0,42200.81,0.0,0.0
+Coincheck,dark market,352,72539.09,0.0,0.0,0.0,
+Coincheck,gambling,71214,91818274.34,5474.0,15142446.94,0.0,0.0
+Coincheck,high risk exchange,4114,20505032.55,644.0,636963.98,0.0,0.0
+Coincheck,hyip,1188,2661376.41,23.0,16960.19,0.0,0.0
+Coincheck,mixer,506,255802.78,0.0,0.0,0.0,
+Coincheck,ransomware,110,308030.22,0.0,0.0,0.0,
+Coincola,criminal,2924,819355.6,4302.0,820152.18,0.0,0.01
+Coincola,dark market,1445,652743.6,180.0,43725.67,0.0,0.0
+Coincola,gambling,2941,1610452.55,432.0,6939631.83,0.0,0.0
+Coincola,high risk exchange,1683,5900781.51,432.0,141910.82,0.0,0.0
+Coincola,hyip,5695,7488355.89,46314.0,13849534.75,0.0,0.0
+Coindeal,dark market,17,3327.04,0.0,0.0,0.01,
+Coindeal,hyip,17,2760.1,0.0,0.0,0.01,
+Coineal,criminal,19,4805.35,20.0,12452.4,0.0,0.0
+Coineal,gambling,57,32754.19,20.0,115094.61,0.0,0.0
+Coineal,high risk exchange,114,59618.35,0.0,0.0,0.0,
+Coinfloor,hyip,15,733.11,0.0,0.0,0.02,
+Coingate,criminal,590,34135666.91,1573.0,33512.09,0.0,0.05
+Coingate,hyip,10,37821.17,6798.0,250047.59,0.0,0.03
+CoinhubMongolia,gambling,14,2098.76,0.0,0.0,0.01,
+CoinhubMongolia,high risk exchange,2,951.78,0.0,0.0,0.0,
+CoinhubMongolia,hyip,31,32639.6,0.0,0.0,0.0,
+Coinmate.io,criminal,136,130459.51,72.0,553239.78,0.0,0.0
+Coinmate.io,dark market,204,70256.13,0.0,0.0,0.0,
+Coinmate.io,gambling,119,72447.84,270.0,3221743.43,0.0,0.0
+Coinmate.io,high risk exchange,1156,5641403.67,954.0,22440035.13,0.0,0.0
+Coinmate.io,hyip,782,348567.75,4266.0,937110.15,0.0,0.0
+Coinme,gambling,12,535.84,0.0,0.0,0.02,
+Coinolution,gambling,4,2081.79,0.0,0.0,0.0,
+Coinolution,hyip,24,9922.3,0.0,0.0,0.0,
+Coinomi,criminal,10,1100.04,12.0,840.42,0.01,0.01
+Coinomi,gambling,5,243.46,6.0,204.51,0.02,0.03
+Coinomi,high risk exchange,15,1730.56,18.0,1419.0,0.01,0.01
+Coinone,criminal,200,55112.45,0.0,0.0,0.0,
+Coinone,gambling,20,75.41,84.0,44854.38,0.27,0.0
+Coinone,ransomware,520,425682.98,0.0,0.0,0.0,
+CoinsPaid,criminal,26,29775.21,32.0,11154.92,0.0,0.0
+CoinsPaid,dark market,126,74781.63,610.0,326374.52,0.0,0.0
+CoinsPaid,gambling,6314,2024808.72,2854.0,698143.96,0.0,0.0
+CoinsPaid,high risk exchange,3060,2393085.85,3340.0,434700.11,0.0,0.01
+CoinsPaid,hyip,834,561779.97,22116.0,2721202.77,0.0,0.01
+CoinsPaid,mixer,8,25704.67,0.0,0.0,0.0,
+CoinsPaid,ransomware,1,120.92,0.0,0.0,0.01,
+CoinsTH,criminal,11172,1302441.89,765.0,41625.49,0.01,0.02
+CoinsTH,dark market,1344,128213.4,30.0,332.77,0.01,0.09
+CoinsTH,gambling,54978,2793413.73,28920.0,4732777.19,0.02,0.01
+CoinsTH,high risk exchange,3108,627100.72,915.0,379859.13,0.0,0.0
+CoinsTH,hyip,16968,6922271.59,4830.0,2351099.29,0.0,0.0
+CoinsTH,ransomware,42,7612.85,0.0,0.0,0.01,
+Coinsbit,criminal,36,21003.54,0.0,0.0,0.0,
+Coinsbit,dark market,18,17797.15,0.0,0.0,0.0,
+Coinsbit,gambling,288,60134.73,57.0,25355.98,0.0,0.0
+Coinsbit,high risk exchange,1008,1098843.87,285.0,324535.42,0.0,0.0
+Coinsbit,hyip,54,7879.6,1102.0,1330229.18,0.01,0.0
+Coinsenda,criminal,78,4665.02,0.0,0.0,0.02,
+Coinsenda,gambling,78,658.67,126.0,49112.69,0.12,0.0
+Coinsenda,high risk exchange,429,195657.76,14.0,414.3,0.0,0.03
+Coinsenda,hyip,156,60298.94,784.0,137778.55,0.0,0.01
+Coinsquare.io,criminal,105,17260.62,0.0,0.0,0.01,
+Coinsquare.io,dark market,546,242651.76,44.0,16774.57,0.0,0.0
+Coinsquare.io,gambling,10059,5876986.87,3652.0,6263261.01,0.0,0.0
+Coinsquare.io,high risk exchange,672,2664488.81,44.0,22386.1,0.0,0.0
+Coinsquare.io,hyip,672,1054013.62,264.0,487391.65,0.0,0.0
+Coinsquare.io,mixer,21,15132.66,0.0,0.0,0.0,
+Coinsuper,criminal,0,0.0,0.0,0.0,,
+Cointrade.cc,dark market,6,939.78,0.0,0.0,0.01,
+Cointrade.cc,gambling,6,331.4,0.0,0.0,0.02,
+Coinut,high risk exchange,19,11668.43,0.0,0.0,0.0,
+Coinygram,gambling,18,9121.11,0.0,0.0,0.0,
+CopperProfit,hyip,0,0.0,0.0,0.0,,
+Copter,high risk exchange,45,3104.64,0.0,0.0,0.01,
+Copter,hyip,9,692.54,0.0,0.0,0.01,
+Crex24Pro,criminal,0,0.0,0.0,0.0,,
+Crex24Pro,gambling,4,459219.55,14.0,1004.08,0.0,0.01
+Crex24Pro,high risk exchange,17,58097.18,60.0,65030.46,0.0,0.0
+Crex24Pro,mixer,1,505.16,0.0,0.0,0.0,
+Cripex,gambling,60,14151.2,0.0,0.0,0.0,
+Cripex,high risk exchange,630,722569.54,0.0,0.0,0.0,
+Cripex,hyip,75,1785.5,0.0,0.0,0.04,
+Cripta,criminal,1,35.71,0.0,0.0,0.03,
+Cripta,dark market,712,30475.55,246.0,32898.14,0.02,0.01
+Cripta,gambling,87,2275.76,38.0,2734.91,0.04,0.01
+Cripta,high risk exchange,41,2199.86,70.0,4096.11,0.02,0.02
+Cripta,hyip,4,238.51,40.0,7146.73,0.02,0.01
+CrossExchange,gambling,17,14231.64,0.0,0.0,0.0,
+CrossTower,high risk exchange,48,117782.72,0.0,0.0,0.0,
+Cryptal,gambling,78,4437.17,33.0,9101.74,0.02,0.0
+Cryptal,high risk exchange,4,1914.37,12.0,1984.2,0.0,0.01
+Cryptal,hyip,2,31.52,0.0,0.0,0.06,
+Cryptex,criminal,17,914.61,0.0,0.0,0.02,
+Cryptex,high risk exchange,595,33529410.31,180.0,1761952.72,0.0,0.0
+Cryptex,mixer,17,71151.53,0.0,0.0,0.0,
+Crypto.com,criminal,41840,28514874.78,1512.0,1383578.76,0.0,0.0
+Crypto.com,dark market,40440,8215366.43,1239.0,377255.33,0.0,0.0
+Crypto.com,gambling,1158120,572229571.88,281799.0,424772154.12,0.0,0.0
+Crypto.com,high risk exchange,78040,104183554.85,9660.0,22145857.15,0.0,0.0
+Crypto.com,hyip,114620,172671192.92,50694.0,85883021.92,0.0,0.0
+Crypto.com,mixer,4980,14099044.86,42.0,51996.55,0.0,0.0
+Crypto.com,ransomware,140,164217.23,0.0,0.0,0.0,
+CryptoAltum,gambling,9,236.88,4.0,95.08,0.04,0.04
+Cryptology,criminal,19,1925.47,20.0,9858391.87,0.01,0.0
+Cryptology,dark market,57,20469.36,0.0,0.0,0.0,
+Cryptology,gambling,95,709138.14,0.0,0.0,0.0,
+Cryptology,high risk exchange,2888,65595837.19,80.0,708.2,0.0,0.11
+Cryptology,hyip,38,4977.0,60.0,8631.72,0.01,0.01
+Cryptology,mixer,209,141775.81,0.0,0.0,0.0,
+Cryptology,ransomware,19,18273.65,20.0,1244.69,0.0,0.02
+Cryptonator.com,criminal,1720,743903.4,1029.0,27857.64,0.0,0.04
+Cryptonator.com,dark market,14620,14761831.9,20076.0,32626710.05,0.0,0.0
+Cryptonator.com,gambling,1220,613988.71,588.0,688898.47,0.0,0.0
+Cryptonator.com,high risk exchange,34600,36499569.22,28875.0,6289684.93,0.0,0.0
+Cryptonator.com,hyip,220,46303.41,12747.0,6155816.92,0.0,0.0
+Cryptonator.com,mixer,200,1279567.22,42.0,303.74,0.0,0.14
+Currency,criminal,176,38978.1,161.0,3721.51,0.0,0.04
+Currency,dark market,3520,286341.57,69.0,8546.71,0.01,0.01
+Currency,gambling,726,81754.28,184.0,48460.16,0.01,0.0
+Currency,high risk exchange,4752,12740039.58,2392.0,2414596.86,0.0,0.0
+Currency,hyip,946,1295795.82,1978.0,1301835.96,0.0,0.0
+Currency,ransomware,44,16968.37,0.0,0.0,0.0,
+CyberBTC,gambling,19,224.63,20.0,9193.7,0.08,0.0
+CyberBTC,high risk exchange,114,6801267.81,100.0,68523.82,0.0,0.0
+DecentralizedHedgeFund,high risk exchange,3,2758.06,0.0,0.0,0.0,
+Decoin,hyip,16,9589.99,0.0,0.0,0.0,
+DeltaExchange,gambling,255,442842.49,18.0,872.32,0.0,0.02
+DeltaExchange,high risk exchange,68,36900.91,0.0,0.0,0.0,
+Deribit,criminal,68,7023229.51,0.0,0.0,0.0,
+Deribit,dark market,34,3318.29,0.0,0.0,0.01,
+Deribit,gambling,51,10686.8,90.0,458203.95,0.0,0.0
+Deribit,high risk exchange,952,17394685.89,252.0,272713.05,0.0,0.0
+Deribit,ransomware,17,997.46,126.0,1250987.37,0.02,0.0
+Deriv,criminal,239,44225.38,3278.0,198646.31,0.01,0.02
+Deriv,dark market,3,79.86,2.0,8.8,0.04,0.23
+Deriv,gambling,32,8113.63,96.0,12594.49,0.0,0.01
+Deriv,high risk exchange,654,284542.99,228.0,20959.37,0.0,0.01
+Deriv,hyip,262,103154.73,3796.0,724050.0,0.0,0.01
+DexTrade,criminal,34,364870.98,0.0,0.0,0.0,
+DexTrade,high risk exchange,221,72247.27,72.0,152220.84,0.0,0.0
+DigiFinex,criminal,92,34039.11,24.0,23794.32,0.0,0.0
+DigiFinex,dark market,46,2437.2,0.0,0.0,0.02,
+DigiFinex,gambling,207,15434.42,72.0,57242.23,0.01,0.0
+DigiFinex,high risk exchange,1035,748716.94,192.0,66822.02,0.0,0.0
+DigiFinex,mixer,69,252701.5,0.0,0.0,0.0,
+Digitex,gambling,3,89.91,0.0,0.0,0.03,
+DmmBitcoin,criminal,242,212138.46,0.0,0.0,0.0,
+DmmBitcoin,dark market,1034,196580.42,0.0,0.0,0.01,
+DmmBitcoin,gambling,1826,1261585.51,1104.0,526992.31,0.0,0.0
+DmmBitcoin,high risk exchange,132,27433.69,46.0,134188.08,0.0,0.0
+DmmBitcoin,hyip,1430,4838498.41,23.0,940.43,0.0,0.02
+DmmBitcoin,ransomware,22,38392.37,0.0,0.0,0.0,
+DuckDice,criminal,2,37.51,0.0,0.0,0.05,
+DuckDice,dark market,2,292.26,18.0,1081.01,0.01,0.02
+DuckDice,gambling,768,313033.24,630.0,169921.88,0.0,0.0
+DuckDice,high risk exchange,452,99536.97,24.0,2060.11,0.0,0.01
+DuckDice,hyip,8,5249.26,129.0,55791.64,0.0,0.0
+DuckDice,malware,4,1420.69,0.0,0.0,0.0,
+DuckDice,mixer,6,3312.86,0.0,0.0,0.0,
+Duelbits,criminal,28,2680.33,0.0,0.0,0.01,
+Duelbits,dark market,50,6099.16,9.0,2072.12,0.01,0.0
+Duelbits,gambling,1190,501947.57,2214.0,799762.4,0.0,0.0
+Duelbits,high risk exchange,172,203325.52,216.0,661946.96,0.0,0.0
+Duelbits,hyip,570,373741.46,3492.0,480262.25,0.0,0.01
+Duelbits,mixer,6,3870.83,0.0,0.0,0.0,
+EcumenicalExpertMining,hyip,0,0.0,0.0,0.0,,
+Elegro,gambling,2,16.11,0.0,0.0,0.12,
+Eqonex,hyip,10,87800.77,0.0,0.0,0.0,
+Etoro,gambling,18,4370.74,0.0,0.0,0.0,
+ExMoney,dark market,128,7837.93,0.0,0.0,0.02,
+ExMoney,high risk exchange,96,4507.15,102.0,1197.28,0.02,0.09
+ExMoney,hyip,16,1135.45,221.0,2343.2,0.01,0.09
+Exbitron,gambling,10,4926.26,0.0,0.0,0.0,
+Exbitron,high risk exchange,25,7040.18,6.0,859.97,0.0,0.01
+Excoino,high risk exchange,0,0.0,0.0,0.0,,
+Exmo.com,dark market,100,22188.9,1554.0,580836.1,0.0,0.0
+Exmo.com,high risk exchange,980,2141982.25,10584.0,13135753.53,0.0,0.0
+Exscudo,gambling,42,1586.56,0.0,0.0,0.03,
+Exscudo,high risk exchange,378,60226.11,88.0,8034.86,0.01,0.01
+Exscudo,hyip,63,1720.3,0.0,0.0,0.04,
+Exscudo,ransomware,21,142952.96,0.0,0.0,0.0,
+FBSMarkets,criminal,133,17432.86,0.0,0.0,0.01,
+FBSMarkets,gambling,28,2433.55,0.0,0.0,0.01,
+FBSMarkets,high risk exchange,1155,674522.52,0.0,0.0,0.0,
+FBSMarkets,hyip,133,9912.96,0.0,0.0,0.01,
+FTXUS,criminal,1065,167518.33,208.0,23735.51,0.01,0.01
+FTXUS,dark market,300,43422.8,48.0,8812.34,0.01,0.01
+FTXUS,gambling,19350,10765498.7,10528.0,16449892.57,0.0,0.0
+FTXUS,high risk exchange,1590,2252692.84,336.0,436734.6,0.0,0.0
+FTXUS,hyip,1320,1360657.67,2976.0,6107234.93,0.0,0.0
+FTXUS,mixer,120,813332.71,16.0,2351406.56,0.0,0.0
+FTXUS,ransomware,15,26558.07,0.0,0.0,0.0,
+FatBTC,high risk exchange,17,18759.07,0.0,0.0,0.0,
+FaucetPay,criminal,32,354.17,81.0,3073.55,0.09,0.03
+FaucetPay,dark market,10,117.76,0.0,0.0,0.08,
+FaucetPay,gambling,672,23592.47,366.0,27162.37,0.03,0.01
+FaucetPay,high risk exchange,1002,41063.74,144.0,26558.85,0.02,0.01
+FaucetPay,hyip,110,1775.79,156.0,2859.19,0.06,0.05
+Felixo,gambling,18,7046.96,57.0,1211.56,0.0,0.05
+Ferma,criminal,418,8549.13,0.0,0.0,0.05,
+Ferma,dark market,19513,794275.41,620.0,98674.84,0.02,0.01
+Ferma,gambling,1995,30655.42,180.0,9485.06,0.07,0.02
+Ferma,high risk exchange,2337,143293.75,880.0,301328.51,0.02,0.0
+Ferma,hyip,570,23125.39,1360.0,206489.46,0.02,0.01
+Ferriswheel,high risk exchange,100,5339969.31,0.0,0.0,0.0,
+Finblox,hyip,1,51.0,0.0,0.0,0.02,
+FinexBox,criminal,34,21181.53,0.0,0.0,0.0,
+FinexBox,high risk exchange,17,1227.33,0.0,0.0,0.01,
+Firi,criminal,4,1151.7,3.0,124.76,0.0,0.02
+Firi,dark market,12,1427.94,0.0,0.0,0.01,
+Firi,gambling,926,343198.39,933.0,439343.79,0.0,0.0
+Firi,high risk exchange,44,120521.81,0.0,0.0,0.0,
+Firi,hyip,8,16010.86,90.0,26818.38,0.0,0.0
+Firi,mixer,2,2297.88,0.0,0.0,0.0,
+FixedFloat,criminal,238,9687.83,36.0,10967.15,0.02,0.0
+FixedFloat,dark market,238,45144.33,0.0,0.0,0.01,
+FixedFloat,gambling,4709,9622382.51,72.0,6251.25,0.0,0.01
+FixedFloat,high risk exchange,23222,8163495.46,504.0,183355.5,0.0,0.0
+FixedFloat,hyip,663,474244.83,18.0,106.1,0.0,0.17
+FixedFloat,mixer,1734,3393489.8,0.0,0.0,0.0,
+FixedFloat,ransomware,17,50.78,0.0,0.0,0.33,
+Fokawa,gambling,18,4039.74,0.0,0.0,0.0,
+FortuneJack,dark market,3,1166.63,8.0,1213.75,0.0,0.01
+FortuneJack,gambling,45,36600.5,108.0,48334.36,0.0,0.0
+FortuneJack,high risk exchange,18,13210.29,8.0,11496.89,0.0,0.0
+FortuneJack,hyip,118,160031.5,1264.0,448982.77,0.0,0.0
+FoxBit.com.br,criminal,216,432893.77,19.0,9123.05,0.0,0.0
+FoxBit.com.br,dark market,18,1260.14,0.0,0.0,0.01,
+FoxBit.com.br,gambling,720,1422683.91,1957.0,1533591.34,0.0,0.0
+FoxBit.com.br,high risk exchange,342,1175596.08,19.0,5730.64,0.0,0.0
+FoxBit.com.br,hyip,270,243654.24,608.0,64140.64,0.0,0.01
+FoxBit.com.br,mixer,18,88301.63,0.0,0.0,0.0,
+FreeBitcoin,gambling,0,0.0,0.0,0.0,,
+FreeBitcoins,gambling,32,15472.79,51.0,28691.56,0.0,0.0
+FreeBitcoins,high risk exchange,256,162056.66,0.0,0.0,0.0,
+FreeBitcoins,hyip,16,3382.73,0.0,0.0,0.0,
+FreedomGateway,criminal,22,1567.0,0.0,0.0,0.01,
+FreedomGateway,high risk exchange,22,6948.45,0.0,0.0,0.0,
+FreedomGateway,hyip,112,153975.45,0.0,0.0,0.0,
+FreiExchange,dark market,19,5778.54,0.0,0.0,0.0,
+FreiExchange,gambling,38,29570.76,520.0,70246.32,0.0,0.01
+FreiExchange,high risk exchange,399,166894.24,100.0,62892.95,0.0,0.0
+Fusion,gambling,40,44343.67,0.0,0.0,0.0,
+Fusion,mixer,2,84375.7,0.0,0.0,0.0,
+FxChoice,hyip,7,349.56,768.0,261752.53,0.02,0.0
+GOPAX,criminal,17,329682.13,0.0,0.0,0.0,
+GOPAX,gambling,17,12784.76,18.0,2969.33,0.0,0.01
+GSPartners,criminal,7,1012.04,0.0,0.0,0.01,
+GSPartners,hyip,7,5253.46,0.0,0.0,0.0,
+Gamdom,criminal,24,17166.41,6.0,35.03,0.0,0.17
+Gamdom,dark market,46,3908.0,6.0,348.8,0.01,0.02
+Gamdom,gambling,2868,696231.45,2037.0,783672.95,0.0,0.0
+Gamdom,high risk exchange,1034,233475.45,228.0,20431.57,0.0,0.01
+Gamdom,hyip,774,520444.82,4653.0,1353743.2,0.0,0.0
+Gamdom,mixer,16,14101.21,0.0,0.0,0.0,
+Garantex,gambling,112,144708.26,88.0,68325.39,0.0,0.0
+Garantex,high risk exchange,4935,18222086.2,33120.0,369390256.33,0.0,0.0
+Garantex,hyip,56,159900.95,1856.0,2021506.45,0.0,0.0
+Garantex,mixer,7,7579.86,16.0,4357574.39,0.0,0.0
+Garantex,ransomware,28,667967.92,88.0,1222300.84,0.0,0.0
+Gate.io,criminal,512,540373.69,1139.0,1154873.41,0.0,0.0
+Gate.io,dark market,1088,1012976.08,2431.0,1981579.3,0.0,0.0
+Gate.io,gambling,4704,8659003.87,4624.0,5950465.04,0.0,0.0
+Gate.io,high risk exchange,9664,34332224.18,7140.0,46756922.06,0.0,0.0
+Gate.io,hyip,832,1112563.89,11458.0,9520656.67,0.0,0.0
+Gate.io,mixer,160,21415989.33,17.0,205483.77,0.0,0.0
+GateHub,high risk exchange,18,31517.58,0.0,0.0,0.0,
+GateHub,hyip,18,6076.17,38.0,40678.16,0.0,0.0
+Gemini.com,criminal,9232,4365785.3,323.0,165298.38,0.0,0.0
+Gemini.com,dark market,17168,2786670.84,187.0,17746.21,0.01,0.01
+Gemini.com,gambling,89472,70018900.78,28373.0,51480337.91,0.0,0.0
+Gemini.com,high risk exchange,12320,23631112.3,952.0,1336475.54,0.0,0.0
+Gemini.com,hyip,16560,51294573.39,7735.0,17351929.38,0.0,0.0
+Gemini.com,malware,16,191.2,0.0,0.0,0.08,
+Gemini.com,mixer,1792,15705406.47,34.0,35882.79,0.0,0.0
+Gemini.com,ransomware,32,141142.89,0.0,0.0,0.0,
+Giottus,criminal,14,4628.16,0.0,0.0,0.0,
+Giottus,dark market,4,61.37,0.0,0.0,0.07,
+Giottus,gambling,218,722298.51,219.0,50333.95,0.0,0.0
+Giottus,high risk exchange,8,24202.81,0.0,0.0,0.0,
+Giottus,hyip,86,74456.37,66.0,17372.23,0.0,0.0
+Globiance,high risk exchange,32,85333.65,0.0,0.0,0.0,
+GoUrl,criminal,15,3811.65,5.0,352.36,0.0,0.01
+GoUrl,high risk exchange,9,2671.93,66.0,3884.68,0.0,0.02
+GoUrl,hyip,21,7106.36,290.0,50223.5,0.0,0.01
+Graviex,criminal,418,530896.84,140.0,977800.06,0.0,0.0
+Graviex,dark market,19,8086.61,0.0,0.0,0.0,
+Graviex,gambling,209,310276.2,0.0,0.0,0.0,
+Graviex,high risk exchange,1729,8117823.15,220.0,934909.37,0.0,0.0
+Graviex,mixer,76,170213.17,0.0,0.0,0.0,
+HBTC,high risk exchange,14,9857.92,0.0,0.0,0.0,
+Hi.com,gambling,6,201.17,0.0,0.0,0.03,
+HitBtc.com,criminal,1071,1353609.72,198.0,529526.47,0.0,0.0
+HitBtc.com,dark market,5250,1055946.5,1430.0,1640598.63,0.0,0.0
+HitBtc.com,gambling,8127,96083215.85,1958.0,1603740.22,0.0,0.0
+HitBtc.com,high risk exchange,26649,47475145.61,3014.0,8549865.72,0.0,0.0
+HitBtc.com,hyip,1134,603817.58,15774.0,1042083294.43,0.0,0.0
+HitBtc.com,malware,42,240192.96,0.0,0.0,0.0,
+HitBtc.com,mixer,1512,11410327.66,110.0,285024.81,0.0,0.0
+HitBtc.com,ransomware,63,13819.89,22.0,190348.58,0.0,0.0
+Hodlnaut,criminal,6,121.05,0.0,0.0,0.05,
+Hodlnaut,high risk exchange,42,46826.95,28.0,4707.86,0.0,0.01
+Hodlnaut,hyip,12,106167.05,105.0,175846.09,0.0,0.0
+Hodlnaut,mixer,12,1411478.9,0.0,0.0,0.0,
+Hold,high risk exchange,2,5145.77,0.0,0.0,0.0,
+Hold,hyip,4,441.97,0.0,0.0,0.01,
+HolyTransaction.com,dark market,10,1386.34,152.0,99054.13,0.01,0.0
+HolyTransaction.com,gambling,2,2673.5,4.0,1424.04,0.0,0.0
+HolyTransaction.com,high risk exchange,21,9921.84,150.0,31329.81,0.0,0.0
+HolyTransaction.com,mixer,3,3859.46,0.0,0.0,0.0,
+Hoo,criminal,120,14317.34,0.0,0.0,0.01,
+Hoo,dark market,195,111886.55,0.0,0.0,0.0,
+Hoo,gambling,105,10081.02,16.0,15315.39,0.01,0.0
+Hoo,high risk exchange,435,430742.82,32.0,11204.16,0.0,0.0
+Hoo,hyip,870,672225.83,720.0,611360.67,0.0,0.0
+Hotbit,criminal,374,138897.54,621.0,149083.17,0.0,0.0
+Hotbit,dark market,462,542181.62,1679.0,2643957.4,0.0,0.0
+Hotbit,gambling,1034,3126869.71,897.0,1342664.44,0.0,0.0
+Hotbit,high risk exchange,1936,1795701.03,1035.0,3983672.26,0.0,0.0
+Hotbit,hyip,264,54848.66,3358.0,2282962.07,0.0,0.0
+Hotbit,mixer,198,2098278.72,69.0,4275509.65,0.0,0.0
+Hugosway,high risk exchange,15,1493.74,6.0,604.18,0.01,0.01
+HuobiGlobal,criminal,13002,11316676.6,874.0,5390997.94,0.0,0.0
+HuobiGlobal,dark market,25124,33791857.97,28428.0,58525639.02,0.0,0.0
+HuobiGlobal,gambling,19140,97308300.76,7613.0,15931156.96,0.0,0.0
+HuobiGlobal,high risk exchange,58454,831034264.29,39330.0,353146911.05,0.0,0.0
+HuobiGlobal,hyip,4070,6752991.17,17043.0,34564102.88,0.0,0.0
+HuobiGlobal,mixer,3102,38483660.25,322.0,20400316.67,0.0,0.0
+HuobiGlobal,ransomware,440,584733.8,1242.0,171099460.85,0.0,0.0
+HuobiJapan,criminal,95,15222.03,0.0,0.0,0.01,
+HuobiJapan,dark market,1102,302915.32,0.0,0.0,0.0,
+HuobiJapan,gambling,152,97154.95,120.0,259502.04,0.0,0.0
+HuobiJapan,high risk exchange,551,13803407.83,60.0,19532.46,0.0,0.0
+HuobiJapan,hyip,19,6800.98,0.0,0.0,0.0,
+HuobiJapan,mixer,76,310248.15,0.0,0.0,0.0,
+HuobiKorea,criminal,18,959.05,0.0,0.0,0.02,
+IconicTrades,hyip,0,0.0,0.0,0.0,,
+IndependentReserve,gambling,288,133217.25,1520.0,200360381.27,0.0,0.0
+IndependentReserve,high risk exchange,414,6372632.22,0.0,0.0,0.0,
+IndependentReserve,hyip,18,1105.38,437.0,262784.08,0.02,0.0
+IndependentReserve,mixer,18,91086.47,0.0,0.0,0.0,
+IndoEx,criminal,16,328.67,0.0,0.0,0.05,
+IndoEx,dark market,16,447.6,0.0,0.0,0.04,
+IndoEx,gambling,144,9164.7,0.0,0.0,0.02,
+Indodax,criminal,595,116522.93,216.0,263560.18,0.01,0.0
+Indodax,dark market,255,50880.89,1476.0,970171.85,0.01,0.0
+Indodax,gambling,5185,9575497.72,17244.0,14286656.78,0.0,0.0
+Indodax,high risk exchange,1377,3728157.23,3618.0,2791732.64,0.0,0.0
+Indodax,hyip,323,130387.29,5436.0,2150175.62,0.0,0.0
+Indodax,mixer,17,2553.97,108.0,152431.47,0.01,0.0
+InstaForex,high risk exchange,16,234.29,85.0,11192.4,0.07,0.01
+Ionomy,gambling,22,88941.77,0.0,0.0,0.0,
+Ionomy,high risk exchange,77,39036.0,0.0,0.0,0.0,
+JetCrypto,dark market,12,540.77,0.0,0.0,0.02,
+JetCrypto,hyip,168,163129.27,0.0,0.0,0.0,
+Jubiter,high risk exchange,19,4703.94,0.0,0.0,0.0,
+Just2Trade,high risk exchange,14,26575.33,75.0,78383.23,0.0,0.0
+Just2Trade,hyip,28,249243.05,0.0,0.0,0.0,
+KOT4X,gambling,12,188623.54,84.0,13374.1,0.0,0.01
+KOT4X,high risk exchange,6,288.33,0.0,0.0,0.02,
+KOT4X,hyip,6,3803.35,679.0,199659.61,0.0,0.0
+Kassa,criminal,54,3505.15,0.0,0.0,0.02,
+Kassa,dark market,24930,1941297.8,2812.0,397682.58,0.01,0.01
+Kassa,gambling,1674,106067.78,380.0,102258.46,0.02,0.0
+Kassa,high risk exchange,1890,257240.91,722.0,359779.24,0.01,0.0
+Kassa,hyip,2052,792387.04,931.0,265208.54,0.0,0.0
+Kassa,ransomware,72,3567.75,0.0,0.0,0.02,
+KickEx,dark market,128,8414.19,0.0,0.0,0.02,
+KickEx,gambling,16,8031.94,0.0,0.0,0.0,
+KickEx,high risk exchange,112,133598.55,0.0,0.0,0.0,
+Kinesis,gambling,6,322.98,0.0,0.0,0.02,
+Kinesis,high risk exchange,24,19563.24,0.0,0.0,0.0,
+Kinesis,hyip,6,797.21,0.0,0.0,0.01,
+Klickl,criminal,3,673.79,0.0,0.0,0.0,
+Klickl,gambling,6,40075.08,0.0,0.0,0.0,
+Koinim,gambling,375,238955.01,80.0,13992.93,0.0,0.01
+Koinim,high risk exchange,15,116400.65,16.0,266.53,0.0,0.06
+Kraken.com,criminal,4116,7171151.81,2970.0,33932400.87,0.0,0.0
+Kraken.com,dark market,36015,7904937.99,7194.0,3817930.1,0.0,0.0
+Kraken.com,gambling,185619,259124382.72,134706.0,910602863.8,0.0,0.0
+Kraken.com,high risk exchange,59136,230895757.44,11462.0,100198706.49,0.0,0.0
+Kraken.com,hyip,8526,20871671.99,26158.0,30691097.46,0.0,0.0
+Kraken.com,mixer,2898,24066142.01,242.0,17139760.16,0.0,0.0
+Kraken.com,ransomware,21,1388.06,44.0,5702934.4,0.02,0.0
+KuCoin,criminal,17220,10688556.13,8558.0,4162833.87,0.0,0.0
+KuCoin,dark market,37800,10368043.93,9372.0,9084291.42,0.0,0.0
+KuCoin,gambling,216447,311060056.13,82016.0,190823184.09,0.0,0.0
+KuCoin,high risk exchange,121800,241959641.12,29656.0,52654976.55,0.0,0.0
+KuCoin,hyip,20727,25179066.21,79288.0,78722134.72,0.0,0.0
+KuCoin,mixer,9198,104889166.55,638.0,2157478.79,0.0,0.0
+KuCoin,ransomware,252,156299.82,374.0,987370.61,0.0,0.0
+Kuna,criminal,520,71101.92,399.0,530155.54,0.01,0.0
+Kuna,dark market,2940,1674559.53,231.0,61596.49,0.0,0.0
+Kuna,gambling,3640,443984684.0,1974.0,1108251.01,0.0,0.0
+Kuna,high risk exchange,14580,12951281.24,28728.0,163609996.67,0.0,0.0
+Kuna,hyip,1160,836566.0,6594.0,2377520.53,0.0,0.0
+Kuna,mixer,760,1883426.93,63.0,106824.5,0.0,0.0
+Kuna,ransomware,20,2591.84,42.0,35112.21,0.01,0.0
+Kyrrex,dark market,60,4316772.95,0.0,0.0,0.0,
+Kyrrex,gambling,2750,2367473.3,0.0,0.0,0.0,
+Kyrrex,high risk exchange,540,2617158.62,0.0,0.0,0.0,
+Kyrrex,hyip,30,26577.78,0.0,0.0,0.0,
+Kyrrex,mixer,130,1244692.1,0.0,0.0,0.0,
+Kyrrex,ransomware,10,9784.99,0.0,0.0,0.0,
+LBank,criminal,592,88180.46,170.0,32949.77,0.01,0.01
+LBank,dark market,272,72245.96,0.0,0.0,0.0,
+LBank,gambling,4736,12342350.05,782.0,881571.05,0.0,0.0
+LBank,high risk exchange,1552,1053669.45,170.0,67364.32,0.0,0.0
+LBank,hyip,416,134085.6,1819.0,557941.39,0.0,0.0
+LBank,mixer,32,309127.72,0.0,0.0,0.0,
+Lemon,criminal,112,9392.66,0.0,0.0,0.01,
+Lemon,gambling,76576,4677343.44,0.0,0.0,0.02,
+Lemon,high risk exchange,336,48861.27,0.0,0.0,0.01,
+Lemon,hyip,176,6768.9,0.0,0.0,0.03,
+Lendingblock,hyip,5,187.35,0.0,0.0,0.03,
+LetsBIT,criminal,33,19128.97,0.0,0.0,0.0,
+LetsBIT,gambling,847,44420.0,300.0,15432.27,0.02,0.02
+LetsBIT,high risk exchange,11,3175.6,24.0,10456.98,0.0,0.0
+Libertex,criminal,15,631.98,48.0,3523.79,0.02,0.01
+Libertex,dark market,30,3261.79,0.0,0.0,0.01,
+Libertex,gambling,60,15721.94,32.0,4843.08,0.0,0.01
+Libertex,high risk exchange,1140,691612.88,800.0,275960.67,0.0,0.0
+Libertex,hyip,150,46117.23,1312.0,140121.73,0.0,0.01
+Liquid,criminal,60,88056.23,0.0,0.0,0.0,
+Liquid,dark market,160,22430.32,0.0,0.0,0.01,
+Liquid,gambling,460,208814.59,168.0,68747.0,0.0,0.0
+Liquid,high risk exchange,2900,9737500.6,0.0,0.0,0.0,
+Liquid,hyip,60,706091.5,0.0,0.0,0.0,
+LiteBit.eu,criminal,187,199057.54,18.0,5129322.22,0.0,0.0
+LiteBit.eu,dark market,17,1058.88,0.0,0.0,0.02,
+LiteBit.eu,gambling,3757,1110704.67,6642.0,3953896.66,0.0,0.0
+LiteBit.eu,high risk exchange,170,59163.94,378.0,264036.46,0.0,0.0
+LiteBit.eu,hyip,289,301079.44,1656.0,1399119.69,0.0,0.0
+LiteBit.eu,ransomware,17,4269.5,0.0,0.0,0.0,
+LocalBitcoins.com,high risk exchange,0,0.0,29900.0,63635826.0,,0.0
+LocalCoin,criminal,421,101991.01,0.0,0.0,0.0,
+LocalCoin,dark market,28,4634.83,0.0,0.0,0.01,
+LocalCoin,gambling,2287,297612.38,0.0,0.0,0.01,
+LocalCoin,high risk exchange,578,205673.08,0.0,0.0,0.0,
+LocalCoin,hyip,2020,1022703.89,8.0,2929.9,0.0,0.0
+LocalCoinSwap,criminal,672,88485.92,0.0,0.0,0.01,
+LocalCoinSwap,dark market,960,144556.55,51.0,4005.62,0.01,0.01
+LocalCoinSwap,gambling,23968,4356825.56,2125.0,2711281.33,0.01,0.0
+LocalCoinSwap,high risk exchange,4352,5925020.86,187.0,120732.36,0.0,0.0
+LocalCoinSwap,hyip,48,10789.72,323.0,9388.59,0.0,0.03
+LocalCoinSwap,mixer,32,2006.37,0.0,0.0,0.02,
+LocalTrade,high risk exchange,16,789.1,0.0,0.0,0.02,
+Luno.com,criminal,141968,23807135.5,20300.0,4196407.73,0.01,0.0
+Luno.com,dark market,7695,689713.55,300.0,67191.54,0.01,0.0
+Luno.com,gambling,249242,33706331.5,40460.0,25114200.12,0.01,0.0
+Luno.com,high risk exchange,85519,86228192.33,2900.0,15287761.4,0.0,0.0
+Luno.com,hyip,96159,44865077.96,93580.0,48161134.97,0.0,0.0
+Luno.com,malware,38,2174.58,40.0,91605.82,0.02,0.0
+Luno.com,mixer,4712,6913668.97,20.0,6138.05,0.0,0.0
+Lykke,dark market,126,97672.21,0.0,0.0,0.0,
+Lykke,gambling,231,159372.47,22.0,1953.37,0.0,0.01
+Lykke,high risk exchange,84,82860.56,0.0,0.0,0.0,
+Lykke,hyip,21,5132.47,0.0,0.0,0.0,
+MChange,dark market,540,102894.46,304.0,80571.8,0.01,0.0
+MChange,high risk exchange,45,6141.95,16.0,3207.99,0.01,0.0
+MaiCoin.com,criminal,40,3448.13,0.0,0.0,0.01,
+MaiCoin.com,gambling,460,345536.45,567.0,197326.85,0.0,0.0
+MaiCoin.com,high risk exchange,500,729593.2,0.0,0.0,0.0,
+MaiCoin.com,hyip,1460,1501692.42,0.0,0.0,0.0,
+MaiCoin.com,ransomware,20,28217.74,0.0,0.0,0.0,
+Margex,gambling,8,5845.82,20.0,8244.53,0.0,0.0
+Margex,high risk exchange,8,2505.14,5.0,421.94,0.0,0.01
+Margex,hyip,4,1512.13,25.0,2385.86,0.0,0.01
+Matbea.com,criminal,72,4231.84,0.0,0.0,0.02,
+Matbea.com,dark market,846,164063.95,95.0,37432.22,0.01,0.0
+Matbea.com,gambling,288,793851.72,266.0,3282651.28,0.0,0.0
+Matbea.com,high risk exchange,1890,1921618.2,760.0,869359.41,0.0,0.0
+Matbea.com,hyip,72,31666.92,532.0,73287.74,0.0,0.01
+Matbea.com,ransomware,252,69923.72,0.0,0.0,0.0,
+Matrixport,criminal,70,65299.78,30.0,104.3,0.0,0.29
+Matrixport,dark market,42,4483.17,0.0,0.0,0.01,
+Matrixport,gambling,14,19026.25,60.0,603022.73,0.0,0.0
+Matrixport,high risk exchange,1092,716905.02,300.0,290880.09,0.0,0.0
+Matrixport,hyip,42,906.81,180.0,461224.45,0.05,0.0
+Matrixport,mixer,14,65413.73,0.0,0.0,0.0,
+Matrixport,ransomware,14,1485.83,0.0,0.0,0.01,
+MercadoBitcoin.com.br,criminal,756,623347.36,228.0,44642.51,0.0,0.01
+MercadoBitcoin.com.br,dark market,126,66091.14,0.0,0.0,0.0,
+MercadoBitcoin.com.br,gambling,5022,4909964.62,5301.0,4311726.96,0.0,0.0
+MercadoBitcoin.com.br,high risk exchange,2934,4818577.46,1216.0,4403118.52,0.0,0.0
+MercadoBitcoin.com.br,hyip,720,833122.81,3781.0,1117520.99,0.0,0.0
+MercadoBitcoin.com.br,mixer,270,743455.61,38.0,170164.35,0.0,0.0
+MercadoBitcoin.com.br,ransomware,18,799.29,0.0,0.0,0.02,
+Mercatox,criminal,120,74201.99,21.0,607.95,0.0,0.03
+Mercatox,dark market,60,2642.27,0.0,0.0,0.02,
+Mercatox,gambling,40,2165.79,21.0,1080.16,0.02,0.02
+Mercatox,high risk exchange,660,745486.59,21.0,2563.34,0.0,0.01
+Mercatox,mixer,60,515949.92,0.0,0.0,0.0,
+Mercuryo,criminal,480,51248.09,32.0,578.42,0.01,0.06
+Mercuryo,dark market,1395,87425.83,0.0,0.0,0.02,
+Mercuryo,gambling,4875,746634.6,512.0,428680.2,0.01,0.0
+Mercuryo,high risk exchange,2865,585328.46,144.0,43881.16,0.0,0.0
+Mercuryo,hyip,390,169589.12,96.0,4055.96,0.0,0.02
+Mercuryo,mixer,30,3369.15,0.0,0.0,0.01,
+Mercuryo,ransomware,90,21481.41,0.0,0.0,0.0,
+MintMe,high risk exchange,12,26782.31,0.0,0.0,0.0,
+MoonXBT,hyip,3,134.78,0.0,0.0,0.02,
+NAGA,gambling,18,347.88,19.0,1851.02,0.05,0.01
+NAGA,high risk exchange,738,215531.97,0.0,0.0,0.0,
+NAGA,hyip,18,9321.95,38.0,3693.7,0.0,0.01
+NBX,criminal,2,6666.71,0.0,0.0,0.0,
+NBX,dark market,2,545.73,0.0,0.0,0.0,
+NBX,gambling,36,10872.34,6.0,4571.24,0.0,0.0
+NBX,high risk exchange,10,4528.04,0.0,0.0,0.0,
+NBX,mixer,2,743.11,0.0,0.0,0.0,
+NaijaCrypto,hyip,5,451.05,0.0,0.0,0.01,
+Netex24,criminal,960,366350.54,34.0,4027.02,0.0,0.01
+Netex24,dark market,101984,30522806.11,9469.0,4149455.7,0.0,0.0
+Netex24,gambling,1472,595038.73,357.0,78964.16,0.0,0.0
+Netex24,high risk exchange,29904,11116499.59,2771.0,102650802.3,0.0,0.0
+Netex24,hyip,400,159782.13,850.0,221583.6,0.0,0.0
+Netex24,mixer,864,1887343.68,0.0,0.0,0.0,
+NewCapital,criminal,16,8308.18,0.0,0.0,0.0,
+NewCapital,gambling,64,1363.81,34.0,1511.32,0.05,0.02
+NiceChange,dark market,2880,1177473.28,768.0,648592.24,0.0,0.0
+NiceChange,high risk exchange,60,28497.55,0.0,0.0,0.0,
+NiceChange,hyip,150,24628.49,16.0,10777.17,0.01,0.0
+NiceHash,criminal,31720,4600634.44,0.0,0.0,0.01,
+NiceHash,dark market,46800,3392583.16,476.0,445548.21,0.01,0.0
+NiceHash,gambling,61685,6388312.64,3472.0,3988170.1,0.01,0.0
+NiceHash,high risk exchange,537576,122943883.46,2786.0,5692511.45,0.0,0.0
+NiceHash,hyip,6253,837488.03,98.0,32566.51,0.01,0.0
+NiceHash,malware,26,550.51,0.0,0.0,0.05,
+NiceHash,mixer,338,643704.68,14.0,283.34,0.0,0.05
+NiceHash,ransomware,1443,217521.81,0.0,0.0,0.01,
+NixMoney,high risk exchange,16,4543.53,0.0,0.0,0.0,
+NovaDAX,criminal,360,223590.59,114.0,68469.64,0.0,0.0
+NovaDAX,gambling,1764,355487.0,6023.0,721787.81,0.0,0.01
+NovaDAX,high risk exchange,576,319815.84,19.0,1681.26,0.0,0.01
+NovaDAX,hyip,198,191360.38,304.0,26498.63,0.0,0.01
+NoxBitcoin,gambling,8,109.07,0.0,0.0,0.07,
+NoxBitcoin,hyip,7,1617.44,4.0,233.7,0.0,0.02
+OKX,criminal,4600,2109022.96,1040.0,708171.77,0.0,0.0
+OKX,dark market,8684,5133971.67,5335.0,9599961.29,0.0,0.0
+OKX,gambling,8244,9111064.75,1780.0,18130687.03,0.0,0.0
+OKX,high risk exchange,22116,171543756.1,3975.0,23401650.6,0.0,0.0
+OKX,hyip,1716,2804594.22,11920.0,10527275.3,0.0,0.0
+OKX,mixer,1552,11423570.48,470.0,1406622.8,0.0,0.0
+OKX,ransomware,344,3341060.43,1510.0,11087716.87,0.0,0.0
+OctaFX,criminal,120,17283.74,2384.0,64746.42,0.01,0.04
+OctaFX,high risk exchange,1065,503876.84,32.0,1924.23,0.0,0.02
+OctaFX,hyip,225,62305.71,3472.0,173097.45,0.0,0.02
+OrionX,criminal,186,32940.84,4.0,535.76,0.01,0.01
+OrionX,gambling,90,156640.63,36.0,47351.18,0.0,0.0
+OrionX,high risk exchange,855,1369190.76,0.0,0.0,0.0,
+OrionX,hyip,15,2300.39,12.0,815.62,0.01,0.01
+OrionX,mixer,3,197.56,0.0,0.0,0.02,
+Ovex,criminal,240,59783.06,0.0,0.0,0.0,
+P2pB2b,gambling,36,18956.41,0.0,0.0,0.0,
+P2pB2b,high risk exchange,36,461357.29,38.0,33784.85,0.0,0.0
+PDAX,criminal,17,15544.49,0.0,0.0,0.0,
+PDAX,high risk exchange,34,90946.87,0.0,0.0,0.0,
+Paribu,criminal,1440,593007.91,374.0,88976.76,0.0,0.0
+Paribu,dark market,256,40935.8,0.0,0.0,0.01,
+Paribu,gambling,12016,27042950.06,10319.0,8194396.48,0.0,0.0
+Paribu,high risk exchange,1232,1836749.88,544.0,217063.12,0.0,0.0
+Paribu,hyip,1056,1991111.43,4318.0,2966665.14,0.0,0.0
+Paribu,mixer,16,476.32,0.0,0.0,0.03,
+Patricia,criminal,260,23544.64,12012.0,3605113.05,0.01,0.0
+Patricia,dark market,260,9729.12,21.0,42.54,0.03,0.49
+Patricia,gambling,20,1974.06,756.0,122295.01,0.01,0.01
+Patricia,high risk exchange,240,145851.14,693.0,235855.88,0.0,0.0
+Patricia,hyip,200,36267.42,111027.0,41395567.7,0.01,0.0
+Paxful.com,criminal,72840,35384918.43,29232.0,3958110.65,0.0,0.01
+Paxful.com,dark market,22880,4294006.04,5523.0,3364648.13,0.01,0.0
+Paxful.com,gambling,449380,159620911.26,86247.0,73897280.28,0.0,0.0
+Paxful.com,high risk exchange,195200,277377046.52,12579.0,5686171.66,0.0,0.0
+Paxful.com,hyip,97380,39673028.58,292719.0,161893415.75,0.0,0.0
+Paxful.com,mixer,5160,16951839.84,21.0,15924.23,0.0,0.0
+Paxful.com,ransomware,160,48758.14,21.0,1778.74,0.0,0.01
+PaxosTrustCompany,criminal,17,453.22,0.0,0.0,0.04,
+PaxosTrustCompany,gambling,153,21444.0,0.0,0.0,0.01,
+PaxosTrustCompany,hyip,85,39675.2,0.0,0.0,0.0,
+PayBito,hyip,11,509.68,0.0,0.0,0.02,
+Payeer,hyip,2,1225.67,489.0,144839.76,0.0,0.0
+Phemex,criminal,437,197725.24,160.0,238478.39,0.0,0.0
+Phemex,dark market,722,169951.14,20.0,612.46,0.0,0.03
+Phemex,gambling,9690,6176199.34,940.0,2538845.81,0.0,0.0
+Phemex,high risk exchange,3496,3768492.98,80.0,8015.76,0.0,0.01
+Phemex,hyip,1444,2383274.53,3000.0,774744.61,0.0,0.0
+Phemex,mixer,95,2074377.32,0.0,0.0,0.0,
+Piexgo,criminal,72,9722.36,0.0,0.0,0.01,
+Piexgo,dark market,120,53786.49,0.0,0.0,0.0,
+Piexgo,gambling,288,464784.28,221.0,313099.58,0.0,0.0
+Piexgo,hyip,12,1398.73,0.0,0.0,0.01,
+PocketExchange,dark market,14688,689085.6,2679.0,441320.83,0.02,0.01
+PocketExchange,gambling,234,13769.03,133.0,30127.41,0.02,0.0
+PocketExchange,high risk exchange,756,37428.56,418.0,104249.98,0.02,0.0
+PocketExchange,hyip,72,20497.61,323.0,14576.92,0.0,0.02
+Poloniex.com,criminal,391,104808.09,90.0,34487.43,0.0,0.0
+Poloniex.com,dark market,5287,1574591.03,2214.0,1718825.82,0.0,0.0
+Poloniex.com,gambling,2941,16772125.7,2016.0,4644102.35,0.0,0.0
+Poloniex.com,high risk exchange,40443,84691449.84,9018.0,22589258.38,0.0,0.0
+Poloniex.com,hyip,952,1438006.12,3240.0,2820700.69,0.0,0.0
+Poloniex.com,mixer,476,2577378.47,0.0,0.0,0.0,
+Poloniex.com,ransomware,136,317600.84,18.0,4379.07,0.0,0.0
+Polyx,high risk exchange,18,10626.74,0.0,0.0,0.0,
+PrimeDice.com,criminal,6,511.2,0.0,0.0,0.01,
+PrimeDice.com,dark market,8,423.93,8.0,369.97,0.02,0.02
+PrimeDice.com,gambling,220,75959.13,218.0,99169.91,0.0,0.0
+PrimeDice.com,high risk exchange,84,33123.7,26.0,15999.98,0.0,0.0
+PrimeDice.com,hyip,11,8189.3,26.0,7863.8,0.0,0.0
+PrimeDice.com,malware,2,1735.86,0.0,0.0,0.0,
+PrimeDice.com,mixer,1,6705.91,0.0,0.0,0.0,
+PrimeDice.com,ransomware,1,227.06,2.0,1892.99,0.0,0.0
+PrimeTrust,criminal,3,37.4,0.0,0.0,0.08,
+PrimeTrust,dark market,3,36.38,0.0,0.0,0.08,
+PrimeTrust,gambling,330,7621.38,0.0,0.0,0.04,
+PrimeTrust,high risk exchange,9,1534.36,0.0,0.0,0.01,
+PrimeTrust,hyip,45,13285.79,0.0,0.0,0.0,
+PrimeTrust,mixer,78,469449.21,0.0,0.0,0.0,
+PrimeXBT,criminal,44,1123.02,23.0,83885.84,0.04,0.0
+PrimeXBT,dark market,264,72604.78,0.0,0.0,0.0,
+PrimeXBT,gambling,594,201105.46,276.0,138248.36,0.0,0.0
+PrimeXBT,high risk exchange,616,237129.02,207.0,234573.17,0.0,0.0
+PrimeXBT,hyip,66,51733.47,1472.0,219229.75,0.0,0.01
+ProBit,criminal,136,48188.55,0.0,0.0,0.0,
+ProBit,dark market,68,16373.7,18.0,2572.77,0.0,0.01
+ProBit,gambling,493,246325.86,216.0,164395.16,0.0,0.0
+ProBit,high risk exchange,1292,1613260.54,144.0,27795.26,0.0,0.01
+ProBit,hyip,34,14187.65,414.0,74795.38,0.0,0.01
+ProBit,mixer,17,23157.4,0.0,0.0,0.0,
+ProBitEx,criminal,0,0.0,0.0,0.0,,
+Purse.io,criminal,2,53.22,0.0,0.0,0.04,
+Purse.io,gambling,9,2691.71,2.0,105.64,0.0,0.02
+Purse.io,high risk exchange,26,19614.84,0.0,0.0,0.0,
+Purse.io,mixer,1,11412.26,0.0,0.0,0.0,
+QuadCoin,criminal,29,1945.53,0.0,0.0,0.01,
+QuadCoin,dark market,4,252.53,0.0,0.0,0.02,
+QuadCoin,gambling,127,6013.78,0.0,0.0,0.02,
+QuadCoin,high risk exchange,30,20442.35,0.0,0.0,0.0,
+QuadCoin,hyip,105,76702.14,0.0,0.0,0.0,
+Quidax,criminal,1020,129840.77,5184.0,944895.38,0.01,0.01
+Quidax,dark market,170,5672.38,0.0,0.0,0.03,
+Quidax,gambling,136,3573.43,90.0,4623.77,0.04,0.02
+Quidax,high risk exchange,1207,397284.25,18.0,1863.16,0.0,0.01
+Quidax,hyip,1785,942895.88,21798.0,7154595.5,0.0,0.0
+RakutenWallet,criminal,11,2359.34,0.0,0.0,0.0,
+RakutenWallet,gambling,396,922169.76,552.0,1901129.86,0.0,0.0
+RakutenWallet,high risk exchange,22,4863.64,0.0,0.0,0.0,
+RakutenWallet,hyip,22,4017.81,0.0,0.0,0.01,
+RakutenWallet,mixer,11,622.93,0.0,0.0,0.02,
+Rekeningku,gambling,19,20270.84,104.0,15735.12,0.0,0.01
+Rekeningku,high risk exchange,24,25102.44,0.0,0.0,0.0,
+Rekeningku,hyip,1,34.97,6.0,443.35,0.03,0.01
+Remitano,criminal,18462,7052734.89,13752.0,7666523.65,0.0,0.0
+Remitano,dark market,14977,5196239.85,1350.0,221332.86,0.0,0.01
+Remitano,gambling,11101,6055263.88,8946.0,7872231.22,0.0,0.0
+Remitano,high risk exchange,20638,40296005.81,2934.0,5451994.21,0.0,0.0
+Remitano,hyip,9758,8738373.36,152388.0,103344560.18,0.0,0.0
+Remitano,mixer,102,22762.76,0.0,0.0,0.0,
+RenVM,criminal,16,7977804.24,186.0,5100802.07,0.0,0.0
+RenVM,dark market,62,17383.5,231.0,3313439.01,0.0,0.0
+RenVM,gambling,88,1027875.38,69.0,23245300.89,0.0,0.0
+RenVM,high risk exchange,448,9505190.53,54.0,775971.9,0.0,0.0
+RenVM,mixer,566,23184818.53,33.0,19837769.88,0.0,0.0
+RenVM,ransomware,4,35556.3,3.0,607.52,0.0,0.0
+Ripio,criminal,48,7631.91,17.0,391.73,0.01,0.04
+Ripio,dark market,32,1506.12,0.0,0.0,0.02,
+Ripio,gambling,96,5537.82,5406.0,320245.69,0.02,0.02
+Ripio,high risk exchange,160,27310.9,0.0,0.0,0.01,
+Ripio,hyip,160,24787.19,289.0,26864.03,0.01,0.01
+RoboForex,criminal,144,83633.17,0.0,0.0,0.0,
+RoboForex,dark market,90,33399.65,0.0,0.0,0.0,
+RoboForex,gambling,90,12510.54,0.0,0.0,0.01,
+RoboForex,high risk exchange,4824,1885420.7,703.0,209756.75,0.0,0.0
+RoboForex,hyip,1476,600185.21,19.0,443.74,0.0,0.04
+RoboForex,ransomware,72,5301.01,0.0,0.0,0.01,
+Roobet,criminal,98,29039.76,0.0,0.0,0.0,
+Roobet,gambling,6024,2104888.82,4680.0,1745378.91,0.0,0.0
+Roobet,high risk exchange,928,825351.78,21.0,2319.08,0.0,0.01
+Roobet,hyip,1650,731359.23,20361.0,2781018.56,0.0,0.01
+Roobet,mixer,22,104722.1,0.0,0.0,0.0,
+RoyalCash,dark market,68,8633.07,18.0,6988.57,0.01,0.0
+RoyalCash,high risk exchange,34,6170.62,0.0,0.0,0.01,
+SBIVCTrade,criminal,15,4461.43,0.0,0.0,0.0,
+SBIVCTrade,dark market,25,14092.96,0.0,0.0,0.0,
+SBIVCTrade,gambling,330,130758.7,0.0,0.0,0.0,
+SBIVCTrade,high risk exchange,35,737879.82,0.0,0.0,0.0,
+SFOX,high risk exchange,100,701907.11,21.0,172311.0,0.0,0.0
+SFOX,hyip,80,1369533.59,21.0,20801.38,0.0,0.0
+STEX,criminal,102,489473.48,90.0,178493.4,0.0,0.0
+STEX,dark market,102,24589.06,1008.0,1522328.47,0.0,0.0
+STEX,gambling,34,25334.58,18.0,1919.85,0.0,0.01
+STEX,high risk exchange,1054,1138050.15,486.0,313952.38,0.0,0.0
+STEX,hyip,51,68231.94,180.0,18129.54,0.0,0.01
+SafeTrade,criminal,19,3575.62,40.0,14019.48,0.01,0.0
+SafeTrade,dark market,95,4469.3,0.0,0.0,0.02,
+SafeTrade,gambling,76,10621.26,20.0,95927.4,0.01,0.0
+SafeTrade,high risk exchange,456,174574.37,180.0,347048.12,0.0,0.0
+SatoshiTango,dark market,48,1200.57,0.0,0.0,0.04,
+SatoshiTango,gambling,400,49017.9,0.0,0.0,0.01,
+SatoshiTango,high risk exchange,32,7948.43,0.0,0.0,0.0,
+Sigen,criminal,51,17750.75,54.0,5276.23,0.0,0.01
+Sigen,dark market,1428,416543.64,5616.0,2709950.51,0.0,0.0
+Sigen,high risk exchange,2618,3599611.68,1548.0,1686186.35,0.0,0.0
+Sigen,hyip,51,14254.5,396.0,60331.84,0.0,0.01
+Sigen,ransomware,17,1135.2,0.0,0.0,0.01,
+SimpleCoin.cz,criminal,58,6845.88,0.0,0.0,0.01,
+SimpleCoin.cz,high risk exchange,2956,1290841.49,0.0,0.0,0.0,
+SimpleFX,gambling,180,35816.44,16.0,150.34,0.01,0.11
+SimpleFX,high risk exchange,225,128787.42,48.0,7434.78,0.0,0.01
+SimpleFX,hyip,60,222285.24,2976.0,144429.42,0.0,0.02
+Skilling,high risk exchange,8,1488.19,0.0,0.0,0.01,
+Skilling,hyip,2,102.88,24.0,4443.35,0.02,0.01
+Solarisbank,criminal,79,30824.84,4.0,1555.43,0.0,0.0
+Solarisbank,dark market,81,13858.44,0.0,0.0,0.01,
+Solarisbank,gambling,582,99770.54,572.0,286203.74,0.01,0.0
+Solarisbank,high risk exchange,71,101739.07,58.0,33558.22,0.0,0.0
+Solarisbank,hyip,155,285097.53,348.0,159433.84,0.0,0.0
+Solarisbank,mixer,11,3596.46,0.0,0.0,0.0,
+Solarisbank,ransomware,2,915.93,2.0,1425.69,0.0,0.0
+Solidi,criminal,2,17.36,0.0,0.0,0.12,
+Solidi,dark market,24,1895.55,0.0,0.0,0.01,
+Solidi,high risk exchange,4,4870.81,0.0,0.0,0.0,
+Solidi,hyip,2,1969.31,3.0,1876.92,0.0,0.0
+SpectroCoin.com,criminal,88,6244.42,115.0,115455.16,0.01,0.0
+SpectroCoin.com,gambling,66,12946.46,874.0,7601807.9,0.01,0.0
+SpectroCoin.com,high risk exchange,66,892219.33,138.0,84692.93,0.0,0.0
+Square,criminal,11804,1966868.0,1413.0,222069.92,0.01,0.01
+Square,dark market,880,99698.45,321.0,55384.05,0.01,0.01
+Square,gambling,21444,1766978.07,40230.0,9543081.25,0.01,0.0
+Square,high risk exchange,2684,1346042.07,303.0,135414.76,0.0,0.0
+Square,hyip,8544,2656574.51,35631.0,13096499.75,0.0,0.0
+Square,mixer,118,60621.73,57.0,51280.64,0.0,0.0
+Square,ransomware,24,11643.83,0.0,0.0,0.0,
+Stake,criminal,66,29014.48,147.0,2127.9,0.0,0.07
+Stake,dark market,114,20469.09,165.0,32614.69,0.01,0.01
+Stake,gambling,5876,2286347.27,14328.0,5773648.18,0.0,0.0
+Stake,high risk exchange,2444,2804427.7,3660.0,480557.97,0.0,0.01
+Stake,hyip,3100,2385587.57,24657.0,5417982.11,0.0,0.0
+Stake,malware,2,195.37,0.0,0.0,0.01,
+Stake,mixer,32,212658.03,24.0,27439.99,0.0,0.0
+Stake,ransomware,4,4640.72,6.0,1324.16,0.0,0.0
+StakeCube,criminal,1824,581960.64,204.0,557232.24,0.0,0.0
+StakeCube,dark market,432,90238.85,0.0,0.0,0.0,
+StakeCube,gambling,672,193433.68,391.0,158710.44,0.0,0.0
+StakeCube,high risk exchange,4400,3004042.96,1479.0,5587845.09,0.0,0.0
+StakeCube,hyip,32,4278.78,187.0,25363.22,0.01,0.01
+StakeCube,mixer,192,78543.62,17.0,12531.63,0.0,0.0
+StakeCube,ransomware,96,9440.68,0.0,0.0,0.01,
+StealthEx,criminal,4213,296341.47,0.0,0.0,0.01,
+StealthEx,dark market,21450,2199101.47,0.0,0.0,0.01,
+StealthEx,gambling,12749,3415169.89,0.0,0.0,0.0,
+StealthEx,high risk exchange,34430,12077857.48,3108.0,198858291.41,0.0,0.0
+StealthEx,hyip,2409,532614.93,0.0,0.0,0.0,
+StealthEx,mixer,2420,3417620.85,0.0,0.0,0.0,
+StealthEx,ransomware,11,1140.38,0.0,0.0,0.01,
+StormGain,criminal,208,139123.57,765.0,11329.65,0.0,0.07
+StormGain,dark market,288,83114.72,1326.0,220496.29,0.0,0.01
+StormGain,gambling,464,153911.54,748.0,154578.87,0.0,0.0
+StormGain,high risk exchange,784,707977.24,2142.0,2140098.87,0.0,0.0
+StormGain,hyip,528,339909.5,3893.0,457755.28,0.0,0.01
+StormGain,mixer,16,510.97,0.0,0.0,0.03,
+Switchain,criminal,16,1716.34,0.0,0.0,0.01,
+Switchain,high risk exchange,32,8869.5,0.0,0.0,0.0,
+Switchain,mixer,16,1857.65,64.0,31929.87,0.01,0.0
+Switchere,criminal,20,1418.61,0.0,0.0,0.01,
+Switchere,dark market,15,4102.35,0.0,0.0,0.0,
+Switchere,gambling,95,7372.58,30.0,9038.5,0.01,0.0
+Switchere,high risk exchange,25,20886.09,0.0,0.0,0.0,
+Switchere,hyip,5,963.43,6.0,22.03,0.01,0.27
+Switchere,mixer,20,790.24,0.0,0.0,0.03,
+TOKOK,high risk exchange,20,30732.85,0.0,0.0,0.0,
+TheRockTrading.com,high risk exchange,98,145049.47,45.0,243029.06,0.0,0.0
+TideBit,gambling,42,479496.76,15.0,16299.6,0.0,0.0
+TideBit,hyip,14,27066.08,45.0,161614.41,0.0,0.0
+TideBit,mixer,14,16261.01,0.0,0.0,0.0,
+TideX,high risk exchange,170,11755.71,108.0,2789.69,0.01,0.04
+TopExchange,criminal,85,70169.2,18.0,15832.28,0.0,0.0
+TopExchange,dark market,21403,15054323.08,6678.0,6236006.36,0.0,0.0
+TopExchange,gambling,612,258442.47,360.0,158247.97,0.0,0.0
+TopExchange,high risk exchange,8670,6904513.27,2322.0,2832774.5,0.0,0.0
+TopExchange,hyip,561,336694.3,1908.0,1306104.5,0.0,0.0
+TopExchange,mixer,85,200723.48,18.0,14213.94,0.0,0.0
+TopExchange,ransomware,17,9079.51,36.0,21116.95,0.0,0.0
+Totalcoin,criminal,574,88187.01,42.0,24522.0,0.01,0.0
+Totalcoin,dark market,35906,10746597.01,6102.0,2396744.65,0.0,0.0
+Totalcoin,gambling,2714,324510.38,867.0,202329.22,0.01,0.0
+Totalcoin,high risk exchange,20582,34965781.43,16146.0,12880968.99,0.0,0.0
+Totalcoin,hyip,196,56299.44,1164.0,383176.87,0.0,0.0
+Totalcoin,mixer,4,10692.54,9.0,747.73,0.0,0.01
+Totalcoin,ransomware,66,18492.37,27.0,23160.96,0.0,0.0
+TradeOgre,criminal,1080,1178547.08,133.0,24113.92,0.0,0.01
+TradeOgre,dark market,4194,548749.36,4332.0,4020845.11,0.01,0.0
+TradeOgre,gambling,4752,5580738.18,1007.0,1194750.32,0.0,0.0
+TradeOgre,high risk exchange,10620,7542722.92,2299.0,933644.07,0.0,0.0
+TradeOgre,hyip,288,208191.41,931.0,255890.83,0.0,0.0
+TradeOgre,mixer,108,420541.65,0.0,0.0,0.0,
+TradeOgre,ransomware,216,60116.26,19.0,179674.91,0.0,0.0
+Trastra,criminal,38,26039.89,33.0,122431.48,0.0,0.0
+Trastra,dark market,20,1863.14,33.0,2817.53,0.01,0.01
+Trastra,gambling,718,252742.58,246.0,130537.96,0.0,0.0
+Trastra,high risk exchange,48,59411.3,75.0,54170.82,0.0,0.0
+Trastra,hyip,106,113331.61,276.0,64853.39,0.0,0.0
+TrustDice,gambling,11,688.94,6.0,180.84,0.02,0.03
+Txbit,gambling,16,1017.48,17.0,107631.56,0.02,0.0
+Txbit,high risk exchange,16,1193.64,34.0,420.96,0.01,0.08
+UnnamedExchange,criminal,16,5241.72,0.0,0.0,0.0,
+UnnamedExchange,dark market,16,3929.21,0.0,0.0,0.0,
+Upbit,criminal,4842,6837092.52,95.0,683163.55,0.0,0.0
+Upbit,dark market,450,72893.51,0.0,0.0,0.01,
+Upbit,gambling,4986,17828585.14,3895.0,3267842.08,0.0,0.0
+Upbit,high risk exchange,1206,10485480.06,152.0,127449.74,0.0,0.0
+Upbit,hyip,2484,4518910.53,494.0,3699136.88,0.0,0.0
+Upbit,mixer,432,3747017.65,0.0,0.0,0.0,
+Upbit,ransomware,90,288286.73,0.0,0.0,0.0,
+Uphold.com,criminal,4879,1848497.32,360.0,525895.89,0.0,0.0
+Uphold.com,dark market,2006,339480.15,54.0,4323.71,0.01,0.01
+Uphold.com,gambling,58021,14146834.76,11574.0,6802700.59,0.0,0.0
+Uphold.com,high risk exchange,41123,29019099.95,666.0,365846.49,0.0,0.0
+Uphold.com,hyip,5372,6543802.02,2592.0,1504174.37,0.0,0.0
+Uphold.com,mixer,272,117344.89,0.0,0.0,0.0,
+Valr,criminal,4606,5464006.13,105.0,54518.29,0.0,0.0
+Valr,dark market,280,14737.22,0.0,0.0,0.02,
+Valr,gambling,2758,183719.3,2490.0,677080.55,0.02,0.0
+Valr,high risk exchange,1442,3021031.37,225.0,47879.08,0.0,0.0
+Valr,hyip,1400,489222.09,1905.0,1684127.03,0.0,0.0
+Valr,mixer,42,58242.86,0.0,0.0,0.0,
+Vaultoro.com,high risk exchange,17,15281.09,0.0,0.0,0.0,
+Vaultoro.com,mixer,17,70456.08,0.0,0.0,0.0,
+Veetcoin,hyip,0,0.0,0.0,0.0,,
+VideForex,criminal,0,0.0,1304.0,70307.43,,0.02
+VideForex,high risk exchange,14,10058.14,88.0,2461.55,0.0,0.04
+Vilcov,dark market,56,21167.56,0.0,0.0,0.0,
+Vilcov,gambling,104,94423.87,0.0,0.0,0.0,
+Vilcov,high risk exchange,20,61244.21,0.0,0.0,0.0,
+Vilcov,hyip,8,5565.3,0.0,0.0,0.0,
+Vilcov,ransomware,4,2010.29,0.0,0.0,0.0,
+ViteX,gambling,80,26808.59,17.0,13346.06,0.0,0.0
+ViteX,high risk exchange,432,1530596.82,0.0,0.0,0.0,
+ViteX,hyip,112,450883.02,51.0,6916.67,0.0,0.01
+ViteX,mixer,32,283053.33,0.0,0.0,0.0,
+VolaBit,criminal,85,26246.96,0.0,0.0,0.0,
+VolaBit,dark market,119,23159.96,0.0,0.0,0.01,
+VolaBit,high risk exchange,544,611824.52,0.0,0.0,0.0,
+VolaBit,hyip,136,3107384.83,72.0,1514520.38,0.0,0.0
+Voyager,criminal,676,648105.89,0.0,0.0,0.0,
+Voyager,dark market,1014,198260.52,0.0,0.0,0.01,
+Voyager,gambling,7670,5433328.56,0.0,0.0,0.0,
+Voyager,high risk exchange,1183,5295405.92,0.0,0.0,0.0,
+Voyager,hyip,949,2511169.67,0.0,0.0,0.0,
+Voyager,mixer,39,475948.93,0.0,0.0,0.0,
+WallBTC,high risk exchange,6,45843.11,0.0,0.0,0.0,
+WalletofSatoshi,dark market,1,47.28,0.0,0.0,0.02,
+WalletofSatoshi,hyip,1,99.23,0.0,0.0,0.01,
+Waves,criminal,57,4308.86,7680.0,238914166.63,0.01,0.0
+Waves,dark market,228,57578.19,960.0,1680377.72,0.0,0.0
+Waves,gambling,361,2981934.41,320.0,2547106.69,0.0,0.0
+Waves,high risk exchange,1482,27392397.51,700.0,2704857.44,0.0,0.0
+Waves,hyip,19,2180.37,500.0,1133801.5,0.01,0.0
+Waves,mixer,361,1742478.52,20.0,102483.54,0.0,0.0
+Waves,ransomware,19,2496.46,20.0,1314.03,0.01,0.02
+WazirX,criminal,2718,546323.74,551.0,30210.25,0.0,0.02
+WazirX,dark market,1350,175468.28,76.0,35067.73,0.01,0.0
+WazirX,gambling,13842,27671323.52,24396.0,20303187.23,0.0,0.0
+WazirX,high risk exchange,4932,7356723.44,1197.0,670530.4,0.0,0.0
+WazirX,hyip,2952,3097422.23,5909.0,1775767.92,0.0,0.0
+WazirX,mixer,54,74702.82,38.0,19200.95,0.0,0.0
+WebMoney,criminal,150,95768.75,21.0,9552.37,0.0,0.0
+WebMoney,dark market,1218,249653.03,315.0,99048.89,0.0,0.0
+WebMoney,gambling,480,43368862.04,441.0,70503959.06,0.0,0.0
+WebMoney,high risk exchange,2040,40798229.61,1638.0,1081796.85,0.0,0.0
+WebMoney,hyip,180,879017.69,3591.0,505128.97,0.0,0.01
+WebMoney,mixer,54,771985.08,14.0,2831559.85,0.0,0.0
+WebMoney,ransomware,6,453.47,14.0,12613.11,0.01,0.0
+Wex.nz,high risk exchange,17,14141.98,18.0,7932.2,0.0,0.0
+WhaleFin,gambling,55,10620.54,6.0,123.0,0.01,0.05
+WhaleFin,high risk exchange,10,2650.67,0.0,0.0,0.0,
+Whitebit,criminal,288,149872.27,285.0,270900.67,0.0,0.0
+Whitebit,dark market,15390,18169810.68,1805.0,13235736.34,0.0,0.0
+Whitebit,gambling,1134,233529957.31,1349.0,579918.95,0.0,0.0
+Whitebit,high risk exchange,26712,149550394.7,26676.0,596539902.9,0.0,0.0
+Whitebit,hyip,882,3443666.82,10089.0,4881148.32,0.0,0.0
+Whitebit,mixer,648,7451251.78,38.0,681961.11,0.0,0.0
+Whitebit,ransomware,162,2463752.42,95.0,137720.93,0.0,0.0
+Windice,gambling,35,60382.83,74.0,95031.04,0.0,0.0
+Windice,high risk exchange,3,2105.79,10.0,81.57,0.0,0.12
+Windice,malware,1,304.35,0.0,0.0,0.0,
+Wirexapp.com,criminal,608,226538.54,442.0,1165804.16,0.0,0.0
+Wirexapp.com,dark market,160,35683.14,136.0,23842.8,0.0,0.01
+Wirexapp.com,gambling,7232,1098733.2,11016.0,6426502.07,0.01,0.0
+Wirexapp.com,high risk exchange,1024,468861.57,2550.0,4586132.26,0.0,0.0
+Wirexapp.com,hyip,2640,2320284.96,10591.0,4184880.41,0.0,0.0
+Wirexapp.com,mixer,48,66058.23,85.0,53234.08,0.0,0.0
+Wirexapp.com,ransomware,48,15670.61,34.0,29737.48,0.0,0.0
+Wyre,criminal,1680,237348.01,35.0,629.33,0.01,0.06
+Wyre,dark market,488,31174.13,10.0,1346.62,0.02,0.01
+Wyre,gambling,38608,2818406.71,5110.0,1341449.36,0.01,0.0
+Wyre,high risk exchange,10108,5987950.32,215.0,50302.9,0.0,0.0
+Wyre,hyip,1496,1297263.24,1245.0,291407.6,0.0,0.0
+Wyre,mixer,260,123620.2,0.0,0.0,0.0,
+XT,criminal,21,4282.95,0.0,0.0,0.0,
+XT,dark market,63,2602.66,0.0,0.0,0.02,
+XT,gambling,42,4692.23,0.0,0.0,0.01,
+XT,high risk exchange,294,89966.73,0.0,0.0,0.0,
+XT,hyip,21,830.13,0.0,0.0,0.03,
+XT,mixer,42,7012.93,0.0,0.0,0.01,
+Xapo.com,dark market,16,247.84,0.0,0.0,0.06,
+Xapo.com,gambling,128,33203.15,289.0,603851.95,0.0,0.0
+Xapo.com,high risk exchange,1568,2159366.74,0.0,0.0,0.0,
+Xapo.com,hyip,96,27647.31,136.0,19782.15,0.0,0.01
+Xcalibra,criminal,30,24884.01,0.0,0.0,0.0,
+Xcalibra,high risk exchange,60,25841.61,0.0,0.0,0.0,
+Xcalibra,hyip,15,6660.4,0.0,0.0,0.0,
+Xeggex,criminal,2,357.9,0.0,0.0,0.01,
+Xeggex,high risk exchange,2,27250.58,0.0,0.0,0.0,
+Xplay,criminal,0,0.0,4.0,739.06,,0.01
+YChanger,dark market,4288,529841.68,221.0,127511.45,0.01,0.0
+YChanger,gambling,16,1171.31,0.0,0.0,0.01,
+YChanger,high risk exchange,384,87677.61,34.0,172.53,0.0,0.2
+YChanger,hyip,16,2309.16,85.0,5729.53,0.01,0.01
+YoBit.net,criminal,36,641.33,152.0,62807.78,0.06,0.0
+YoBit.net,dark market,1260,1923521.28,22477.0,32699641.15,0.0,0.0
+YoBit.net,gambling,324,391027.39,342.0,436298.7,0.0,0.0
+YoBit.net,high risk exchange,4932,41254434.92,2337.0,3704507.4,0.0,0.0
+YoBit.net,hyip,108,4945684.92,361.0,31512.88,0.0,0.01
+YoBit.net,ransomware,72,162627.32,0.0,0.0,0.0,
+YouHodler,criminal,66,35521.2,36.0,37587.91,0.0,0.0
+YouHodler,dark market,99,15781.87,0.0,0.0,0.01,
+YouHodler,gambling,1155,494059.49,1572.0,807381.84,0.0,0.0
+YouHodler,high risk exchange,781,876817.0,36.0,809.91,0.0,0.04
+YouHodler,hyip,132,1266980.09,312.0,520729.34,0.0,0.0
+YouHodler,mixer,22,17376.1,0.0,0.0,0.0,
+YoungPlatform,criminal,26,4353.5,0.0,0.0,0.01,
+YoungPlatform,dark market,13,464.51,0.0,0.0,0.03,
+YoungPlatform,gambling,1196,181386.37,378.0,272689.64,0.01,0.0
+YoungPlatform,high risk exchange,572,192997.96,0.0,0.0,0.0,
+YoungPlatform,hyip,78,108095.66,70.0,8495.56,0.0,0.01
+YoungPlatform,mixer,13,4643.53,0.0,0.0,0.0,
+ZBgroup,criminal,6,3509.73,3.0,26302.17,0.0,0.0
+ZBgroup,dark market,4,195.23,60.0,51401.42,0.02,0.0
+ZBgroup,gambling,22,93852.01,15.0,4122.84,0.0,0.0
+ZBgroup,high risk exchange,20,32940.55,6.0,19446.67,0.0,0.0
+ZBgroup,hyip,2,256.51,15.0,4759.29,0.01,0.0
+Zaif,criminal,20,6067.1,21.0,131397.88,0.0,0.0
+Zaif,dark market,40,56570.04,0.0,0.0,0.0,
+Zaif,gambling,460,525669.19,147.0,1387199.07,0.0,0.0
+Zaif,high risk exchange,60,589490.77,21.0,5172.59,0.0,0.0
+Zipmex,high risk exchange,26,24290.57,0.0,0.0,0.0,
+Zipmex,hyip,39,190478.9,14.0,103.91,0.0,0.13
+ZondaGlobal,criminal,108,72352.8,14.0,206357.73,0.0,0.0
+ZondaGlobal,dark market,48,15871.47,7.0,675.0,0.0,0.01
+ZondaGlobal,gambling,432,65657.37,1197.0,354246.4,0.01,0.0
+ZondaGlobal,high risk exchange,642,1077238.59,161.0,88524.16,0.0,0.0
+ZondaGlobal,hyip,288,426330.03,371.0,185417.76,0.0,0.0
+ZondaGlobal,mixer,6,1066.73,0.0,0.0,0.01,
+Zoomex,gambling,4,239.2,0.0,0.0,0.02,
+eBitpoint,criminal,70,4054.36,0.0,0.0,0.02,
+eBitpoint,dark market,90,4104.53,0.0,0.0,0.02,
+eBitpoint,hyip,100,3041.14,44.0,11651.14,0.03,0.0
+eMoney,criminal,4,2172.73,0.0,0.0,0.0,
+eMoney,dark market,6,692.45,2.0,8.71,0.01,0.23
+eMoney,gambling,88,20777.85,96.0,42995.28,0.0,0.0
+eMoney,high risk exchange,20,7419.88,80.0,36523.9,0.0,0.0
+eMoney,hyip,2,193.67,76.0,10713.03,0.01,0.01
+eMoney,ransomware,2,328.64,0.0,0.0,0.01,
+qTrade,dark market,54,4413.24,0.0,0.0,0.01,
+qTrade,high risk exchange,108,34618.53,0.0,0.0,0.0,
+qTrade,mixer,126,438383.35,0.0,0.0,0.0,
+vbtc,high risk exchange,15,14114.7,0.0,0.0,0.0,
+wBTCb,dark market,4,142.59,0.0,0.0,0.03,
+wBTCb,gambling,64,25271.32,138.0,1002956.39,0.0,0.0
+wBTCb,high risk exchange,24,54440.05,9.0,12020.64,0.0,0.0
+wBTCb,hyip,8,12739.05,24.0,5196.26,0.0,0.0
